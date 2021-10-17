@@ -1,0 +1,301 @@
+﻿Station_Name,X_Percentage,Y_Percentage,Rain_Critical,Asset_Location
+A50_TCR_105,51.968,57.745,1,Bay Fair
+A10_TCR,41.631,46.257,1,Lake Merritt
+R60_TCR,24.08,13.06,1,Richmond
+R50_TCR_105,26.5,15.83,1,El Cerrito Del Norte
+R10_TCR,36.25,26.48,1,Ashby
+M90_TCR_116A,20.136,68.617,1,Daly City
+M90_TCR_114,20.158,68.638,1,Daly City
+M90_TCR_113,20.133,68.611,1,Daly City
+M90_TCR_112,20.127,68.598,1,Daly City
+M10_TCR,35.195,42.561,1,West Oakland
+L30_TCR_108D,79.83,59.44,1,Dublin/Pleasanton
+K30_TCR,38.908,32.784,1,MacArthur
+C10_TCR,41.697,26.541,1,Rockridge
+A20_TCR_108,44.146,49.044,1,Fruitvale
+A20_TCR_107,44.145,49.042,1,Fruitvale
+C60_TCR,53.86,13.055,1,Concord
+C50_TCR_104,51.448,15.709,1,Pleasant Hill/Contra Costa Centre
+Y10_TCR_B,34.33,77.59,0,San Francisco International Airport
+Y10_TCR_A,34.33,77.576,0,San Francisco International Airport
+Y10_TCR_552,34.33,77.59,0,San Francisco International Airport
+W40_TCR,30.42,79.63,0,Millbrae
+W40_TCR_103A,30.42,79.63,0,Millbrae
+W40_TCR_103,30.42,79.63,0,Millbrae
+W40_TCR_102,30.42,79.63,0,Millbrae
+W34_TCR,32.218,76.793,0,San Bruno
+W30_TCR,27.289,76.615,0,San Bruno
+W20_TCR_101,24.986,74.055,0,South San Francisco
+W10_TCR_111E,22.593,71.405,0,Colma
+W10_TCR_110,22.593,71.404,0,Colma
+S50_TCR,71,89.63,0,Berryessa/North San Jose
+S44_TCH,71,87.739,0,Milpitas
+S40_TCR,71,85.448,0,Milpitas
+S28_TCH,71,84.231,0,Warm Springs/South Fremont
+S26_TCH,71,83.306,0,Warm Springs/South Fremont
+S24_TCH,71,82.239,0,Warm Springs/South Fremont
+S20_TCR,71,81.48,0,Warm Springs/South Fremont
+S12_TCR,69.957,79.364,0,Warm Springs/South Fremont
+S06_TCR,69.259,77.948,0,Warm Springs/South Fremont
+R40_TCR_105,28.896,18.405,0,El Cerrito Plaza
+R30_TCR_110A,31.33,21.11,0,North Berkeley
+R30_TCR_110,31.33,21.11,0,North Berkeley
+R20_TCR_105C,33.83,23.8,0,Downtown Berkeley
+ORY_TCR_101,24.72,13.792,0,ORY TCR
+M50_TCR_101D,18.21,55.529,0,16th St Mission
+M40_TCR_106B,20,50.46,0,Civic Center/UN Plaza
+M30_TCR_102D,21.787,48.48,0,Powell St
+M20_TCR,23.199,46.915,0,Montgomery St
+M16_TCR,24.78,44.999,0,Embarcadero
+ODY_TCR_106,22.468,71.265,0,ODY TCR
+M94_TCR_MSC,21.691,70.397,0,Daly City
+M80_TCR_106,18.236,64.002,0,Balboa Park
+M80_TCR_105,18.222,64.016,0,Balboa Park
+M70_TCR_205,18.17,61.136,0,Glen Park
+M60_TCR_101D,18.199,58.303,0,24th St Mission
+L20_TCR,73.647,59.44,0,West Dublin/Pleasanton
+L18_TCR,70.406,59.44,0,West Dublin/Pleasanton
+L16_TCR,68.782,59.44,0,West Dublin/Pleasanton
+L14_TCR,65.847,59.44,0,Castro Valley
+L10_TCR_102A,63.117,59.44,0,Castro Valley
+L06_TCR,54.518,60.58,0,Castro Valley
+C20_TCR,44.152,23.91,0,Orinda
+C88_TCR,67.642,11.02,0,Pittsburg/Bay point
+C80_TCR,66.134,11.02,0,Pittsburg/Bay point
+C76_TCR,62.78,11.02,0,Pittsburg/Bay point
+C70_TCR_109,59.17,11.02,0,North Concord/Martinez
+OCY_TCR,56.917,11.881,0,OCY TCR
+C54_TCR,57.609,11.616,0,Pleasant Hill/Contra Costa Centre
+C40_TCR,49.119,18.474,0,Walnut Creek
+C30_TCR,46.592,21.186,0,Lafayette
+K20_TCR_213E,38.919,35.365,0,19th St/Oakland
+K10_TCR_102B,38.815,38.337,0,12th St/Oakland City Center
+K10_TCR_101B,38.8,38.365,0,12th St/Oakland City Center
+K10_TCR_101,38.807,38.34,0,12th St/Oakland City Center
+A40_TCR,49.334,54.811,0,San Leandro
+A30_TCR_105A,46.736,51.925,0,Coliseum
+A90_TCR,68.186,75.773,0,Fremont
+A80_TCR_101C,64.5,71.67,0,Union City
+A80_TCR_101,64.496,71.666,0,Union City
+A80_TCR_101B,64.5,71.67,0,Union City
+HTT_TCR,62.781,69.758,0,HTT TCR
+OHY_TCR,62.416,69.353,0,OHY TCR
+A70_TCR,60.75,67.5,0,South Hayward
+A60_TCR,57.145,63.502,0,Hayward
+A58_TCR,53.12,59.025,0,Hayward
+E30_TCR,79.17,11.02,0,Antioch
+E10_TCR,67.665,11.02,0,Pittsburg Center
+P-369,24.542,13.589,0,Aerial Structure
+P-333,26.224,15.514,0,Aerial Structure
+P-008,38.027,30.943,0,Aerial Structure
+A-351,25.962,15.214,0,Aerial Structure
+P-356,24.719,13.791,0,Aerial Structure
+P-363,24.627,13.686,0,Aerial Structure
+A-387,24.237,13.239,0,Aerial Structure
+P-341,26.121,15.397,0,Aerial Structure
+A-25,38.556,32.272,0,Aerial Structure
+P-375,24.447,13.48,0,Aerial Structure
+P-148,29.448,19.018,0,Aerial Structure
+P-018,37.839,30.472,0,Aerial Structure
+P-078,30.55,20.242,0,Aerial Structure
+P-188,28.786,18.287,0,Aerial Structure
+P-313,26.562,15.897,0,Aerial Structure
+P-062,37.016,28.404,0,Aerial Structure
+P-150,18.983,65.272,0,Aerial Structure
+P-183,19.643,66.699,0,Aerial Structure
+P-38,36.177,41.418,0,Aerial Structure
+P-215B,20.448,69.01,0,Aerial Structure
+P-174,19.537,66.214,0,Aerial Structure
+B-231,20.848,69.457,0,Aerial Structure
+P-216A,20.506,69.075,0,Aerial Structure
+P-179,19.597,66.524,0,Aerial Structure
+P-140,33.474,42.933,0,Aerial Structure
+P-55,35.565,42.13,0,Aerial Structure
+A-200,19.544,67.195,0,Aerial Structure
+A-266,54.519,14.754,0,Aerial Structure
+A-108,45.452,22.459,0,Aerial Structure
+P-142,47.83,19.861,0,Aerial Structure
+P-44,37.526,30.571,0,Aerial Structure
+P-288,53.547,13.375,0,Aerial Structure
+A-151,48.675,19.09,0,Aerial Structure
+P-112,45.777,22.097,0,Aerial Structure
+A-118_CL,46.427,21.371,0,Aerial Structure
+P-48,40.443,29.595,0,Aerial Structure
+A-99,44.142,23.92,0,Aerial Structure
+B-8,38.83,40.25,0,Aerial Structure
+A-55,40.682,29.005,0,Aerial Structure
+A-274,53.423,13.513,0,Aerial Structure
+P-236,51.475,15.679,0,Aerial Structure
+A-96_CL,42.125,26.082,0,Aerial Structure
+P-280,53.481,13.448,0,Aerial Structure
+P-153,48.806,19.049,0,Aerial Structure
+A-211,49.737,17.739,0,Aerial Structure
+B-305,53.706,13.198,0,Aerial Structure
+P-254,51.661,15.472,0,Aerial Structure
+P-190,49.318,18.237,0,Aerial Structure
+A-139,47.194,20.542,0,Aerial Structure
+P-31_RL,38.321,31.681,0,Aerial Structure
+A-861,64.338,71.49,0,Aerial Structure
+A-811,61.379,68.199,0,Aerial Structure
+A-868,67.269,74.74,0,Aerial Structure
+P-44_2,43.549,48.382,0,Aerial Structure
+P-2,43.008,47.782,0,Aerial Structure
+P-251,46.845,52.045,0,Aerial Structure
+P-788,57.3,63.674,0,Aerial Structure
+P-651,53.795,59.777,0,Aerial Structure
+P-304,47.491,52.765,0,Aerial Structure
+P-438,49.166,54.628,0,Aerial Structure
+P-729,55.74,61.94,0,Aerial Structure
+A-796,58.25,64.727,0,Aerial Structure
+P-809,60.63,67.367,0,Aerial Structure
+P-234,46.592,51.764,0,Aerial Structure
+P-154,45.255,50.277,0,Aerial Structure
+P-634,52.069,57.857,0,Aerial Structure
+P-835,63.96,71.069,0,Aerial Structure
+P-377,48.401,53.776,0,Aerial Structure
+P-900,68.159,75.728,0,Aerial Structure
+P-532,50.5,56.112,0,Aerial Structure
+P-73,43.904,48.775,0,Aerial Structure
+A50-TEMPMON,51.968,57.745,0,Temperature Sensor
+A50-TC-UPS,51.968,57.745,0,Temperature Sensor
+A10-TEMPMON,41.631,46.257,0,Temperature Sensor
+A10-TC-UPS,41.631,46.257,0,Temperature Sensor
+R60-TEMPMON,24.08,13.06,0,Temperature Sensor
+R60-TC-UPS,24.08,13.06,0,Temperature Sensor
+R50-TEMPMON,26.5,15.83,0,Temperature Sensor
+R50-TC-UPS,26.5,15.83,0,Temperature Sensor
+R10-TEMPMON,36.25,26.48,0,Temperature Sensor
+R10-TC-UPS,36.25,26.48,0,Temperature Sensor
+M90-TEMPMON,20.136,68.617,0,Temperature Sensor
+M90-TC-UPS,20.136,68.617,0,Temperature Sensor
+M10-TEMPMON,35.195,42.561,0,Temperature Sensor
+M10-TC-UPS,35.195,42.561,0,Temperature Sensor
+L30-TEMPMON,79.83,59.44,0,Temperature Sensor
+L30-TC-UPS,79.83,59.44,0,Temperature Sensor
+K30-TEMPMON,38.908,32.784,0,Temperature Sensor
+K30-TC-UPS,38.908,32.784,0,Temperature Sensor
+C10-TEMPMON,41.697,26.541,0,Temperature Sensor
+C10-TC-UPS,41.697,26.541,0,Temperature Sensor
+A20-TEMPMON,44.146,49.044,0,Temperature Sensor
+A20-TC-UPS,44.146,49.044,0,Temperature Sensor
+C60-TEMPMON,53.86,13.055,0,Temperature Sensor
+C60-TC-UPS,53.86,13.055,0,Temperature Sensor
+C50-TEMPMON,51.448,15.709,0,Temperature Sensor
+C50-TC-UPS,51.448,15.709,0,Temperature Sensor
+Y10-TEMPMON,34.33,77.59,0,Temperature Sensor
+Y10-TC-UPS,34.33,77.59,0,Temperature Sensor
+W40-TEMPMON,30.42,79.63,0,Temperature Sensor
+W40-TC-UPS,30.42,79.63,0,Temperature Sensor
+W34-TEMPMON,32.218,76.793,0,Temperature Sensor
+W34-TC-UPS,32.218,76.793,0,Temperature Sensor
+W30-TEMPMON,27.289,76.615,0,Temperature Sensor
+W30-TC-UPS,27.289,76.615,0,Temperature Sensor
+W20-TEMPMON,24.986,74.055,0,Temperature Sensor
+W20-TC-UPS,24.986,74.055,0,Temperature Sensor
+W10-TEMPMON,22.593,71.405,0,Temperature Sensor
+W10-TC-UPS,22.593,71.405,0,Temperature Sensor
+S50-TEMPMON,71,89.63,0,Temperature Sensor
+S50-TC-UPS,71,89.63,0,Temperature Sensor
+S44-TEMPMON,71,87.739,0,Temperature Sensor
+S44-TC-UPS,71,87.739,0,Temperature Sensor
+S40-TEMPMON,71,85.448,0,Temperature Sensor
+S40-TC-UPS,71,85.448,0,Temperature Sensor
+S28-TEMPMON,71,84.231,0,Temperature Sensor
+S28-TC-UPS,71,84.231,0,Temperature Sensor
+S26-TEMPMON,71,83.306,0,Temperature Sensor
+S26-TC-UPS,71,83.306,0,Temperature Sensor
+S24-TEMPMON,71,82.239,0,Temperature Sensor
+S24-TC-UPS,71,82.239,0,Temperature Sensor
+S20-TEMPMON,71,81.48,0,Temperature Sensor
+S20-TC-UPS,71,81.48,0,Temperature Sensor
+S12-TEMPMON,69.957,79.364,0,Temperature Sensor
+S12-TC-UPS,69.957,79.364,0,Temperature Sensor
+S06-TEMPMON,69.259,77.948,0,Temperature Sensor
+S06-TC-UPS,69.259,77.948,0,Temperature Sensor
+R40-TEMPMON,28.896,18.405,0,Temperature Sensor
+R40-TC-UPS,28.896,18.405,0,Temperature Sensor
+R30-TEMPMON,31.33,21.11,0,Temperature Sensor
+R30-TC-UPS,31.33,21.11,0,Temperature Sensor
+R20-TEMPMON,33.83,23.8,0,Temperature Sensor
+R20-TC-UPS,33.83,23.8,0,Temperature Sensor
+ORY-TEMPMON,24.72,13.792,0,Temperature Sensor
+ORY-TC-UPS,24.72,13.792,0,Temperature Sensor
+M50-TEMPMON,18.21,55.529,0,Temperature Sensor
+M50-TC-UPS,18.21,55.529,0,Temperature Sensor
+M40-TEMPMON,20,50.46,0,Temperature Sensor
+M40-TC-UPS,20,50.46,0,Temperature Sensor
+M30-TEMPMON,21.787,48.48,0,Temperature Sensor
+M30-TC-UPS,21.787,48.48,0,Temperature Sensor
+M20-TEMPMON,23.199,46.915,0,Temperature Sensor
+M20-TC-UPS,23.199,46.915,0,Temperature Sensor
+M16-TEMPMON,24.78,44.999,0,Temperature Sensor
+M16-TC-UPS,24.78,44.999,0,Temperature Sensor
+ODY-TEMPMON,22.468,71.265,0,Temperature Sensor
+ODY-TC-UPS,22.468,71.265,0,Temperature Sensor
+M94-TEMPMON,21.691,70.397,0,Temperature Sensor
+M94-TC-UPS,21.691,70.397,0,Temperature Sensor
+M80-TEMPMON,18.236,64.002,0,Temperature Sensor
+M80-TC-UPS,18.236,64.002,0,Temperature Sensor
+M70-TEMPMON,18.17,61.136,0,Temperature Sensor
+M70-TC-UPS,18.17,61.136,0,Temperature Sensor
+M60-TEMPMON,18.199,58.303,0,Temperature Sensor
+M60-TC-UPS,18.199,58.303,0,Temperature Sensor
+L20-TEMPMON,73.647,59.44,0,Temperature Sensor
+L20-TC-UPS,73.647,59.44,0,Temperature Sensor
+L18-TEMPMON,70.406,59.44,0,Temperature Sensor
+L18-TC-UPS,70.406,59.44,0,Temperature Sensor
+L16-TEMPMON,68.782,59.44,0,Temperature Sensor
+L16-TC-UPS,68.782,59.44,0,Temperature Sensor
+L14-TEMPMON,65.847,59.44,0,Temperature Sensor
+L14-TC-UPS,65.847,59.44,0,Temperature Sensor
+L10-TEMPMON,63.117,59.44,0,Temperature Sensor
+L10-TC-UPS,63.117,59.44,0,Temperature Sensor
+L06-TEMPMON,54.518,60.58,0,Temperature Sensor
+L06-TC-UPS,54.518,60.58,0,Temperature Sensor
+C20-TEMPMON,44.152,23.91,0,Temperature Sensor
+C20-TC-UPS,44.152,23.91,0,Temperature Sensor
+C88-TEMPMON,67.642,11.02,0,Temperature Sensor
+C88-TC-UPS,67.642,11.02,0,Temperature Sensor
+C80-TEMPMON,66.134,11.02,0,Temperature Sensor
+C80-TC-UPS,66.134,11.02,0,Temperature Sensor
+C76-TEMPMON,62.78,11.02,0,Temperature Sensor
+C76-TC-UPS,62.78,11.02,0,Temperature Sensor
+C70-TEMPMON,59.17,11.02,0,Temperature Sensor
+C70-TC-UPS,59.17,11.02,0,Temperature Sensor
+OCY-TEMPMON,56.917,11.881,0,Temperature Sensor
+OCY-TC-UPS,56.917,11.881,0,Temperature Sensor
+C54-TEMPMON,57.609,11.616,0,Temperature Sensor
+C54-TC-UPS,57.609,11.616,0,Temperature Sensor
+C40-TEMPMON,49.119,18.474,0,Temperature Sensor
+C40-TC-UPS,49.119,18.474,0,Temperature Sensor
+C30-TEMPMON,46.592,21.186,0,Temperature Sensor
+C30-TC-UPS,46.592,21.186,0,Temperature Sensor
+K20-TEMPMON,38.919,35.365,0,Temperature Sensor
+K20-TC-UPS,38.919,35.365,0,Temperature Sensor
+K10-TEMPMON,38.815,38.337,0,Temperature Sensor
+K10-TC-UPS,38.815,38.337,0,Temperature Sensor
+A40-TEMPMON,49.334,54.811,0,Temperature Sensor
+A40-TC-UPS,49.334,54.811,0,Temperature Sensor
+A30-TEMPMON,46.736,51.925,0,Temperature Sensor
+A30-TC-UPS,46.736,51.925,0,Temperature Sensor
+A90-TEMPMON,68.186,75.773,0,Temperature Sensor
+A90-TC-UPS,68.186,75.773,0,Temperature Sensor
+A80-TEMPMON,64.5,71.67,0,Temperature Sensor
+A80-TC-UPS,64.5,71.67,0,Temperature Sensor
+HTT-TEMPMON,62.781,69.758,0,Temperature Sensor
+HTT-TC-UPS,62.781,69.758,0,Temperature Sensor
+OHY-TEMPMON,62.416,69.353,0,Temperature Sensor
+OHY-TC-UPS,62.416,69.353,0,Temperature Sensor
+A70-TEMPMON,60.75,67.5,0,Temperature Sensor
+A70-TC-UPS,60.75,67.5,0,Temperature Sensor
+A60-TEMPMON,57.145,63.502,0,Temperature Sensor
+A60-TC-UPS,57.145,63.502,0,Temperature Sensor
+A58-TEMPMON,53.12,59.025,0,Temperature Sensor
+A58-TC-UPS,53.12,59.025,0,Temperature Sensor
+E30-TEMPMON,79.17,11.02,0,Temperature Sensor
+E30-TC-UPS,79.17,11.02,0,Temperature Sensor
+E10-TEMPMON,67.665,11.02,0,Temperature Sensor
+E39-TEMPMON,80,11,0,Temperature Sensor
+C55-TC-UPS,56.917,11.881,0,Temperature Sensor
+E10-TC-UPS,67.665,11.02,0,Temperature Sensor
+NOAA_ALERT,11,6,0,Emergency Alert
