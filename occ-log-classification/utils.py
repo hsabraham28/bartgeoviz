@@ -5,6 +5,31 @@ from IPython.display import FileLink
 import pandas as pd
 import tensorflow as tf
 import io
+# rabail made functions
+# Zip File -> CSV File
+ 
+# open zipped csv to dataset
+def zipped_to_csv(zipFile):
+    
+    with zipfile.ZipFile(zipFile) as z:
+       # open the csv file in the dataset
+       with z.open(zipFile) as f:
+          # read the dataset
+          train = pd.read_csv(f)
+          # return dataset
+          return train
+        
+#open csv to dataset
+def csv_to_dataset(downloadLocation, csvName):
+    fname = os.path.join(downloadLocation, csvName)
+    readDataSet = pd.read_csv(fname)
+    return readDataSet
+
+#export dataframe to csv
+dsf dataframe_to_csv(locationOfCsv, dataFrame):
+    return dataFrame.to_csv(rlocationOfCsv, index = False)
+
+#end Rabail Functions
 
 def read_word_doc_zip_as_df(zipFile):
     dfs = []
