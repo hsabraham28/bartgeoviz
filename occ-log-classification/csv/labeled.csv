@@ -1,54 +1,54 @@
-Log,Cat
-"T385 released, 5 minutes late.",10
-"CAR COUNT
+Time,Log,Cat
+2,"T385 released, 5 minutes late.",10
+400,"CAR COUNT
 A’s:  51   B’s:   329   C’s:   172  D’s:  25   E’s:  48 TOTAL:",10
-"Daily SCRAM / Spare Train Report: OCY: T337 Hole / No RR #397
+0400,"Daily SCRAM / Spare Train Report: OCY: T337 Hole / No RR #397
 ODY: SCRAM Compliant / No RR #399 / 2-C GO OHY: SCRAM Compliant / No RR #599 / 3-B GO
 ORY: SCRAM Compliant / 10-car RR #499 [will balance to OCY for T337] L30: SCRAM Compliant
 W40: T443 1-car short
 FOTF: T107 [10], T237 [8], T375 [10], T371 [10] & T509 [10]
 
 Note: T453 dispatching ORY as a Legacy consist due to C4014 being balanced to OCY for high hour PM status per Tango. RR #499 FOTF consist will be used to fill T337 hole from OCY.",10
-T229 late dispatching OHY due to FW scheduling error per Tower F/W.,7
-"T229 verifies A78 [A1 & A2 tracks] cranked, clamped & aligned for ATO.",6
-"BPD performing QOL sweeps T373, T513, T375, T515, T377, T517, T379, T519, T381, T441,
+443,T229 late dispatching OHY due to FW scheduling error per Tower F/W.,7
+447,"T229 verifies A78 [A1 & A2 tracks] cranked, clamped & aligned for ATO.",6
+0500,"BPD performing QOL sweeps T373, T513, T375, T515, T377, T517, T379, T519, T381, T441,
 T501m T383 & T101 @ M16-2. Formal holds issued to T/O's & release given at station platform by BPD.",1
-"T361 verifies C35 A-B cranks, clamps & bolts installed, aligned for ATO, (201) seconds late departing C30-2.",6
-"T373 verifies C35 C-D cranked, clamped, bolted & aligned for ATO, (220) second delay departing C40-1.",6
-Charlie53 [Schexnayder] @ M10 for commute.,10
-M45 [Johnson] @ M16 for commute.,10
-"T383 PSF M10-2, 2-cars out, continuing on per aerial platform procedure. TPA made on T383. Tango advised.",10
-Alpha68 [Chueh] @ A10 for commute.,10
-Romeo12 [Oliver] @ R50 for commute.,10
-"T117 no ATO doors S20-1, ""311"" issued.",5
-"T373 arriving K10-2 reports heavy brake smell and brake smoke present in station. Ventilation established. Tango reports T323 arriving M10-1 has a solid PROP, no suspects. Charlie53 boarding T323 for ride through TBT. M/L Tech @ M16. 2-4 minute delays C2/M1 tracks.",5
-Alpha99 [Colvin] @ A50 for commute.,10
-Charlie3 [Grier] @ K30 for commute.,10
-[MDRX] T507 in TBT BPD hold M10-2 for a welfare check in C402 [male slumped over]. Charlie53 not in position to assist.,2
-T507 released ATO.,10
-[MDRX] T381 reporting medical emergency on C1851 [person passed out]. Medic16 & M45 responding.,3
-"CTO-1 reports individual is clear of train, trains released ATO. (331) second delay M16-1. BPD rolling Medical for separate medical emergency reported on platform [female passed out].",3
-"T385 @ K20-2 reports long dwells due to heavy passenger loads. Now (332) seconds late after
+514,"T361 verifies C35 A-B cranks, clamps & bolts installed, aligned for ATO, (201) seconds late departing C30-2.",6
+555,"T373 verifies C35 C-D cranked, clamped, bolted & aligned for ATO, (220) second delay departing C40-1.",6
+631,Charlie53 [Schexnayder] @ M10 for commute.,10
+635,M45 [Johnson] @ M16 for commute.,10
+639,"T383 PSF M10-2, 2-cars out, continuing on per aerial platform procedure. TPA made on T383. Tango advised.",10
+646,Alpha68 [Chueh] @ A10 for commute.,10
+648,Romeo12 [Oliver] @ R50 for commute.,10
+658,"T117 no ATO doors S20-1, ""311"" issued.",5
+0700,"T373 arriving K10-2 reports heavy brake smell and brake smoke present in station. Ventilation established. Tango reports T323 arriving M10-1 has a solid PROP, no suspects. Charlie53 boarding T323 for ride through TBT. M/L Tech @ M16. 2-4 minute delays C2/M1 tracks.",5
+706,Alpha99 [Colvin] @ A50 for commute.,10
+708,Charlie3 [Grier] @ K30 for commute.,10
+715,[MDRX] T507 in TBT BPD hold M10-2 for a welfare check in C402 [male slumped over]. Charlie53 not in position to assist.,2
+720,T507 released ATO.,10
+814,[MDRX] T381 reporting medical emergency on C1851 [person passed out]. Medic16 & M45 responding.,3
+819,"CTO-1 reports individual is clear of train, trains released ATO. (331) second delay M16-1. BPD rolling Medical for separate medical emergency reported on platform [female passed out].",3
+833,"T385 @ K20-2 reports long dwells due to heavy passenger loads. Now (332) seconds late after
 (108) second dwell K30-4 & (64) second dwell K20-2.",11
-"T383 no ATO doors M20-1, ""311"" issued.",5
-T371 approaching C30 BPD hold C60-1 for marijuana smokers on train.,4
-"T329 PSF K30-4, 2-cars out, continuing on. SFO-bound T363 on approach for patrons who missed SF train. T461 will board back-trackers to K30 at K20-1. T329 now (442) seconds late.",11
-"T505 no ATO doors M90-1, ""311"" issued. 
+837,"T383 no ATO doors M20-1, ""311"" issued.",5
+844,T371 approaching C30 BPD hold C60-1 for marijuana smokers on train.,4
+856,"T329 PSF K30-4, 2-cars out, continuing on. SFO-bound T363 on approach for patrons who missed SF train. T461 will board back-trackers to K30 at K20-1. T329 now (442) seconds late.",11
+856,"T505 no ATO doors M90-1, ""311"" issued. 
 
 ",5
-"T371 released ATO, (118) seconds late.",11
-"T103 no ATO doors M20-1, ""311"" issued.",5
-"T103 no ATO doors M90-1, ""311"" issued.",5
-"T119 PSF A10-1, 1/2-car out, manual procedures.",5
-"T441 no ATO doors M40-2, ""311"" issued.",5
-"T441 no ATO doors M40-2, ""311"" issued.",5
-"T441 no ATO doors M30-2, ""311"" issued.",5
-"T441 no ATO doors M20-2, ""311"" issued. 2nd occurrence, Tango advised. T/O performing 20- second AUX after door cycle.",5
-"T107 no ATO doors M20-1, ""311"" issued.",5
-T369 BPD hold C60-2 for Officers to offboard a subject.,1
-"T105 no ATO doors M90-1, ""311"" issued.",5
-"T119 PSF A50-1, 1/2-car out, manual procedures per aerial platform procedure. TPA made on T119. T113 holding A60-2 for back-trackers to A50. Tango advised.",5
-"X F/W [Ghebru] advised of PSF's A50-1, A50-2, K30-4, A10-1, M10-2 & M20-1.
+858,"T371 released ATO, (118) seconds late.",11
+859,"T103 no ATO doors M20-1, ""311"" issued.",5
+859,"T103 no ATO doors M90-1, ""311"" issued.",5
+900,"T119 PSF A10-1, 1/2-car out, manual procedures.",5
+903,"T441 no ATO doors M40-2, ""311"" issued.",5
+903,"T441 no ATO doors M40-2, ""311"" issued.",5
+905,"T441 no ATO doors M30-2, ""311"" issued.",5
+908,"T441 no ATO doors M20-2, ""311"" issued. 2nd occurrence, Tango advised. T/O performing 20- second AUX after door cycle.",5
+911,"T107 no ATO doors M20-1, ""311"" issued.",5
+914,T369 BPD hold C60-2 for Officers to offboard a subject.,1
+914,"T105 no ATO doors M90-1, ""311"" issued.",5
+915,"T119 PSF A50-1, 1/2-car out, manual procedures per aerial platform procedure. TPA made on T119. T113 holding A60-2 for back-trackers to A50. Tango advised.",5
+920,"X F/W [Ghebru] advised of PSF's A50-1, A50-2, K30-4, A10-1, M10-2 & M20-1.
 
 WO# 16145573
 Days: Crew was dispatched.  Crew reset PSID and VPI, monitor several trains, no issue.
@@ -59,128 +59,128 @@ Days: Crew was dispatched. Crew reset PSID and TWC, monitored several trains, no
 WO# 16145578
 Days: Crew was dispatched.  Crew reset PSID and TWC, monitored several trains, no issue.
 ",0
-T113 departing A60-2 (484) seconds late after picking up back-trackers.,11
-"T113 stopped with zero speed A57 gate Echo, issued road manual to A57 gate Golf. (95) second delay, now (590) seconds late. RFM #SR288578 submitted.
+928,T113 departing A60-2 (484) seconds late after picking up back-trackers.,11
+931,"T113 stopped with zero speed A57 gate Echo, issued road manual to A57 gate Golf. (95) second delay, now (590) seconds late. RFM #SR288578 submitted.
 
 WO# 16145195
 Days: TC17 was dispatched. Upon Crew arrival in the TC room, issue was self-cleared. Crew inspected the associated boards, wires and signals, and reported no discrepancy found. They monitored several trains, no issue was occurred again.",6
-"A90 S/A issued Cat B W/O's A2 track to retrieve cell phone from trackway, trains holding out.",4
-"A90 S/A clears W/O's, trains released ATO.",10
-"T241 no ATO doors A40-2, ""311"" issued.",5
-"T223 no ATO doors S20-2, ""311"" issued.",5
-T105 BPD hold A60-1 for Officers to offboard a subject.,1
-T105 released ATO.,10
-"T369 no ATO doors M50-1, ""311"" issued.",5
-"T369 no ATO doors M60-1, ""311"" issued.",5
-"T369 no ATO doors M70-1, ""311"" issued.",5
-"T113 (610) seconds late M90-2, late outound turn. T113 was on SORS behind T369 with no ATO doors. T369 performed ""quick"" AUX cycle at M70-1, Tango advised.",5
-"Grounds Superintendent reports hole in fence MP 20.56 C1 track. Structures employee monitoring & Grounds crew ETA is 20 minutes, Trains continue ATO.",6
-"T519 no ATO doors M90-1, ""311"" issued.",5
-T901 out-of-service M90-1. Lodger in C1607 will not exit train. BPD responding.,2
-"T101 no ATO doors M90-2, ""311"" issued.",5
-"Delays near M90 1, 2 & 3 due to lodger that will not offboard T901. BPD reports Officer(s) on a priority call at M70 and has extended response time. T901 now T381 running out-of-service to Y10 as new T381 per ODY Tower. TO relief @ W10-1.",2
-"T441 no ATO doors M30-2, ""311"" issued.",5
-T451 departing M60 BPD hold M70-1 for drug activity on train.,1
-"T451 released ATO, (105) second delay.",11
-T445 BPD hold K30-1 for an assault suspect.,1
-"T445 released ATO, (287) second delay.",11
-T239 BPD hold R40-2 for a person who was smoking on train reported by T/O.,1
-"T239 BPD hold cxl'd, individual exited train @ R50-2.",1
-T363 in TBT BPD hold M10-2 for a disturbance on train.,1
-"T363 released ATO, (79) second delay.",11
-"EQUIPMENT
+932,"A90 S/A issued Cat B W/O's A2 track to retrieve cell phone from trackway, trains holding out.",4
+933,"A90 S/A clears W/O's, trains released ATO.",10
+942,"T241 no ATO doors A40-2, ""311"" issued.",5
+942,"T223 no ATO doors S20-2, ""311"" issued.",5
+1004,T105 BPD hold A60-1 for Officers to offboard a subject.,1
+1005,T105 released ATO.,10
+1005,"T369 no ATO doors M50-1, ""311"" issued.",5
+1008,"T369 no ATO doors M60-1, ""311"" issued.",5
+1012,"T369 no ATO doors M70-1, ""311"" issued.",5
+1022,"T113 (610) seconds late M90-2, late outound turn. T113 was on SORS behind T369 with no ATO doors. T369 performed ""quick"" AUX cycle at M70-1, Tango advised.",5
+1045,"Grounds Superintendent reports hole in fence MP 20.56 C1 track. Structures employee monitoring & Grounds crew ETA is 20 minutes, Trains continue ATO.",6
+1051,"T519 no ATO doors M90-1, ""311"" issued.",5
+1103,T901 out-of-service M90-1. Lodger in C1607 will not exit train. BPD responding.,2
+1115,"T101 no ATO doors M90-2, ""311"" issued.",5
+1120,"Delays near M90 1, 2 & 3 due to lodger that will not offboard T901. BPD reports Officer(s) on a priority call at M70 and has extended response time. T901 now T381 running out-of-service to Y10 as new T381 per ODY Tower. TO relief @ W10-1.",2
+1147,"T441 no ATO doors M30-2, ""311"" issued.",5
+1159,T451 departing M60 BPD hold M70-1 for drug activity on train.,1
+1202,"T451 released ATO, (105) second delay.",11
+1237,T445 BPD hold K30-1 for an assault suspect.,1
+1242,"T445 released ATO, (287) second delay.",11
+1310,T239 BPD hold R40-2 for a person who was smoking on train reported by T/O.,1
+1311,"T239 BPD hold cxl'd, individual exited train @ R50-2.",1
+1347,T363 in TBT BPD hold M10-2 for a disturbance on train.,1
+1352,"T363 released ATO, (79) second delay.",11
+1400,"EQUIPMENT
 R65XL27mph speed restriction [key-imposed] due to switch configuration (#10up against three #15's). Minimal delays in/out of Richmond Yard.
 Zero speed codes Y05 A-F & F-D. (1-3) minutes delays due to road manual in area.",6
-"T221 A50-2 BPD hold, patron smoking.",4
-"T221 released, 1 minute late.",11
-"T377 M40-2 PSF 1/2 car out of the platform, manual procedures.",7
-Supervisor C67 reporting in at K30 for commute watch.,10
-,0
-,0
-,0
-"T119 M80-2 2 cars out of the platform, continue to M70-2 with no door cycle.",5
-"T113 A90-1 BPD hold, welfare check.",1
-"T119 M70-2 1 PSF 1 car out of the platform, manual procedures.",7
-"T377 C50-1 2 cars cutout, now 5 minutes late.",11
-Supervisors M3 and M6 reporting in at M16 for commute watch.,10
-Supervisor A44 reporting in at A50 for commute watch.,10
-"Per BPD all trains holding out of M60, person reportedly in and out of the track way.",4
-"Electrical employee fell off of a ladder while working at OKS, no apparent injuries. Employee was transported to Oakland Kaiser for precautionary measures.",8
-"All trains now entering M60 in R/M, BPD en route from M40.",11
-Supervisor R4 reporting in at R50 for commute watch.,10
-"T119 A10-1 PSF 1 car out of the platform, repositioning back into platform.",7
-"T119 ATO, 5 minutes late.",11
-M60 released ATO.,10
-Supervisor M49 reporting in at M16 for commute watch.,10
-"T443 W10-1 6 minutes late, routes at M93XL were dropping. M97 VPI FIP reset to clear the problem.",7
-"T371 M60-1 BPD hold, patron smoking, 1 minute late.",4
-"T231 R30-1 5 minutes late, extended door dwells.",5
-"T113 M20-1 PSF 1 set of doors out of the platform, manual procedures.",7
-"T377 M30-1 PSF 1 door out of the platform, manual procedures.",7
-"T101 A50-2 BPD hold, drunk patron, 2 minutes late.",4
-"T325 M16-2 5 minutes late, extended door dwells for heavy crowds.",11
-"T107 A80-1 BPD hold, drunk patron, 4 minutes late.",4
-"T371 M16-2 5 minutes late, and T513 M10-2 5 minutes late, secondary delay, following late T325.",11
-"T461 K30-2 door open, T/O troubleshooting.",5
-"T461 ATO, T/O cutout doors 6/8 C444, 7 minutes late.",5
-"T513 A20-1 BPD hold, disturbance, now 8 minutes late. Secondary delay 6 minutes late.",1
-"T377 M80-2 PSF 1 door out of the platform, manual procedures.",7
-"T373 C40-1 BPD hold, patrons smoking.",4
-"T103 M20-1 5 minutes late, secondary delay following late T461.",11
-"T373 released, 1 minute delay.",11
-"Work orders issued Track 36 for the L13XL, visual inspection. Speed restriction imposed, delays of 5-7 minutes incurred.",6
-"T377 K103 possible medical emergency, T/O investigating.",3
-65 trains/581 cars. PM Rush rated Excellent. 9 cars short of SCRAM due to car shortage.,10
-"T377 ATO, now 6 minutes late.",11
-"T371 C80-2 6 minutes late, blocked by OOS T771 that had a patron that refused to off-board.",4
-"T457 M80-2 BPD hold, welfare check, 6 minutes late.",1
-"T377 C20-1 PSF 1 door out of the platform, continue to C30-1 with no door cycle. (aerial)",5
-"T225 R60-1 BPD hold, welfare check.",1
-Work orders clear.,10
-T225 released.,10
-"T513 M30-1 BPD hold, person was in/out of the track way.",1
-Per S20 F/W person went into a grate area in the track way south of S20-1. T119 R/M out of the platform to allow the F/W work orders to inspect area.,12
-"T451 K30-2 5 minutes late, track inspection for fare evader at K30.",12
-"T513 released, 13 minutes late. Secondary delay T449 11 minutes late.",11
-"S20 inspected both tracks at S20 to S23, no one observed wayside. All trains ATO, T101 S20-1 8 minutes late.",12
-"T379 C88 8 minutes late, replacement train from C89 ST 3.",11
-"T231 R40-1 7 minutes late, track inspection for for report of person wayside.",12
-"T373 Y10-3 late T/O board-up, 10 minutes late. T/O departed SFIA without performing a door cycle, UOR requested.",5
-"T381 C88 door open, T/O troubleshooting.",5
-"T373 M60-1 BPD hold, welfare check.",1
-"T371 M90-3 BPD hold, welfare check, 1 minute delay.",1
-"T381 ATO, T/O cutout doors 1/3 C2503 due to doors off-track, 10 minutes late.",5
-"Per BPD all trains holding out of A50, looking for a suspect.",1
-"T373 released, 5 minutes late.",11
-A50 released ATO.,10
-"T519 M80-2 BPD hold, report of graffiti, 6 minutes late.",1
-"T451 M60-2 5 minutes late, secondary delay following late T519.",11
-"TBT10 issued category B work orders for M1 track TBT for modified safe clearance practice. Single tracking between M17 and M15, delays up to 10 minutes in service.",13
-T771 BPD hold C40-1 for a disturbance.,1
-"T771 released, 7 minute delay.",11
-TBT10 cleared category B work orders. Single tracking ended.,13
-Electrical employee delivered home.,8
-"Per BPD all trains holding out of M16, fight on the platform.",1
-"M16 released ATO, T519/T919 6 minutes late, T371 7 minutes late, T385 6 minutes late.",11
-"T371 M20-1 PSF 1 panel out of the platform, manual procedures.",7
-Rain file established.,10
-"Patron fell into the M2 track at M20, S/A assisted patron out of the track way, EMT en route.",4
-W30 staffed.,10
-"T365 M90-1 5 minutes late, ran around replacement T519 on M90-2.",11
-"T385 C80-1 BPD hold, possible medical emergency.",3
-"T375 M20-1 PSF 1 set of doors out of the platform, manual procedures, 8 minutes late.",7
-"T365 C10-1 BPD hold, fight on the platform.",1
-"T367 M40-2 5 minutes late, extended door dwells.",11
-"T365 released, 16 minutes late.",11
-All trains K30 released ATO.,10
-"T381 M16-1 14 minutes late, verification of TBT7/TBT6 on the M2 track at MW04.",11
-EOR.,0
-Log,0
-W-Line Blanket established.,10
-"CAR COUNT
+1507,"T221 A50-2 BPD hold, patron smoking.",4
+1523,"T221 released, 1 minute late.",11
+1525,"T377 M40-2 PSF 1/2 car out of the platform, manual procedures.",7
+1555,Supervisor C67 reporting in at K30 for commute watch.,10
+1600,,0
+1600,,0
+1600,,0
+1602,"T119 M80-2 2 cars out of the platform, continue to M70-2 with no door cycle.",5
+1606,"T113 A90-1 BPD hold, welfare check.",1
+1607,"T119 M70-2 1 PSF 1 car out of the platform, manual procedures.",7
+1611,"T377 C50-1 2 cars cutout, now 5 minutes late.",11
+1611,Supervisors M3 and M6 reporting in at M16 for commute watch.,10
+1615,Supervisor A44 reporting in at A50 for commute watch.,10
+1619,"Per BPD all trains holding out of M60, person reportedly in and out of the track way.",4
+1620,"Electrical employee fell off of a ladder while working at OKS, no apparent injuries. Employee was transported to Oakland Kaiser for precautionary measures.",8
+1625,"All trains now entering M60 in R/M, BPD en route from M40.",11
+1626,Supervisor R4 reporting in at R50 for commute watch.,10
+1633,"T119 A10-1 PSF 1 car out of the platform, repositioning back into platform.",7
+1635,"T119 ATO, 5 minutes late.",11
+1639,M60 released ATO.,10
+1642,Supervisor M49 reporting in at M16 for commute watch.,10
+1646,"T443 W10-1 6 minutes late, routes at M93XL were dropping. M97 VPI FIP reset to clear the problem.",7
+1652,"T371 M60-1 BPD hold, patron smoking, 1 minute late.",4
+1714,"T231 R30-1 5 minutes late, extended door dwells.",5
+1726,"T113 M20-1 PSF 1 set of doors out of the platform, manual procedures.",7
+1731,"T377 M30-1 PSF 1 door out of the platform, manual procedures.",7
+1757,"T101 A50-2 BPD hold, drunk patron, 2 minutes late.",4
+1800,"T325 M16-2 5 minutes late, extended door dwells for heavy crowds.",11
+1802,"T107 A80-1 BPD hold, drunk patron, 4 minutes late.",4
+1804,"T371 M16-2 5 minutes late, and T513 M10-2 5 minutes late, secondary delay, following late T325.",11
+1817,"T461 K30-2 door open, T/O troubleshooting.",5
+1823,"T461 ATO, T/O cutout doors 6/8 C444, 7 minutes late.",5
+1824,"T513 A20-1 BPD hold, disturbance, now 8 minutes late. Secondary delay 6 minutes late.",1
+1830,"T377 M80-2 PSF 1 door out of the platform, manual procedures.",7
+1832,"T373 C40-1 BPD hold, patrons smoking.",4
+1844,"T103 M20-1 5 minutes late, secondary delay following late T461.",11
+1849,"T373 released, 1 minute delay.",11
+1851,"Work orders issued Track 36 for the L13XL, visual inspection. Speed restriction imposed, delays of 5-7 minutes incurred.",6
+1855,"T377 K103 possible medical emergency, T/O investigating.",3
+1900,65 trains/581 cars. PM Rush rated Excellent. 9 cars short of SCRAM due to car shortage.,10
+1902,"T377 ATO, now 6 minutes late.",11
+1910,"T371 C80-2 6 minutes late, blocked by OOS T771 that had a patron that refused to off-board.",4
+1913,"T457 M80-2 BPD hold, welfare check, 6 minutes late.",1
+1920,"T377 C20-1 PSF 1 door out of the platform, continue to C30-1 with no door cycle. (aerial)",5
+1921,"T225 R60-1 BPD hold, welfare check.",1
+1922,Work orders clear.,10
+1925,T225 released.,10
+1950,"T513 M30-1 BPD hold, person was in/out of the track way.",1
+1951,Per S20 F/W person went into a grate area in the track way south of S20-1. T119 R/M out of the platform to allow the F/W work orders to inspect area.,12
+1951,"T451 K30-2 5 minutes late, track inspection for fare evader at K30.",12
+2001,"T513 released, 13 minutes late. Secondary delay T449 11 minutes late.",11
+2003,"S20 inspected both tracks at S20 to S23, no one observed wayside. All trains ATO, T101 S20-1 8 minutes late.",12
+2003,"T379 C88 8 minutes late, replacement train from C89 ST 3.",11
+2004,"T231 R40-1 7 minutes late, track inspection for for report of person wayside.",12
+2007,"T373 Y10-3 late T/O board-up, 10 minutes late. T/O departed SFIA without performing a door cycle, UOR requested.",5
+2018,"T381 C88 door open, T/O troubleshooting.",5
+2022,"T373 M60-1 BPD hold, welfare check.",1
+2023,"T371 M90-3 BPD hold, welfare check, 1 minute delay.",1
+2024,"T381 ATO, T/O cutout doors 1/3 C2503 due to doors off-track, 10 minutes late.",5
+2025,"Per BPD all trains holding out of A50, looking for a suspect.",1
+2026,"T373 released, 5 minutes late.",11
+2026,A50 released ATO.,10
+2104,"T519 M80-2 BPD hold, report of graffiti, 6 minutes late.",1
+2113,"T451 M60-2 5 minutes late, secondary delay following late T519.",11
+2135,"TBT10 issued category B work orders for M1 track TBT for modified safe clearance practice. Single tracking between M17 and M15, delays up to 10 minutes in service.",13
+2139,T771 BPD hold C40-1 for a disturbance.,1
+2147,"T771 released, 7 minute delay.",11
+2205,TBT10 cleared category B work orders. Single tracking ended.,13
+2247,Electrical employee delivered home.,8
+2300,"Per BPD all trains holding out of M16, fight on the platform.",1
+2307,"M16 released ATO, T519/T919 6 minutes late, T371 7 minutes late, T385 6 minutes late.",11
+2318,"T371 M20-1 PSF 1 panel out of the platform, manual procedures.",7
+2319,Rain file established.,10
+2328,"Patron fell into the M2 track at M20, S/A assisted patron out of the track way, EMT en route.",4
+2330,W30 staffed.,10
+2340,"T365 M90-1 5 minutes late, ran around replacement T519 on M90-2.",11
+2358,"T385 C80-1 BPD hold, possible medical emergency.",3
+7,"T375 M20-1 PSF 1 set of doors out of the platform, manual procedures, 8 minutes late.",7
+12,"T365 C10-1 BPD hold, fight on the platform.",1
+26,"T367 M40-2 5 minutes late, extended door dwells.",11
+29,"T365 released, 16 minutes late.",11
+53,All trains K30 released ATO.,10
+116,"T381 M16-1 14 minutes late, verification of TBT7/TBT6 on the M2 track at MW04.",11
+150,EOR.,0
+,Log,0
+232,W-Line Blanket established.,10
+0400,"CAR COUNT
 
 A’s: 41	B’s:   336   C’s:   162 D’s: 23	E’s: 40	TOTAL: 602",10
-"SCRAM/Spare Train Report:
+0400,"SCRAM/Spare Train Report:
 OCY: T333 and T337 are holes. No RR #397, No Go cars. ODY: T511 is a hole. No RR #399, No Go cars.
 OHY: T233(5), No RR #599, 6 go cars (5B's/1C).
 L30: SCRAM Compliant. W40: T443(9)
@@ -188,122 +188,122 @@ L30: SCRAM Compliant. W40: T443(9)
 FOTF: T113(10) T237(9)T329 T361(10) T453(9)
 
 Notes: OCY and ODY reporting car shortages. All Locations reporting personnel shortages.",10
-W-Line.blanket released back to Central.,10
-A/L Line Blanket released back to Central.,10
-C-Line Blanket released back to Central.,10
-Dispatches in progress.,10
-"T229 1st train track inspection for A78XL, cranks and clamps verified, area is good for ATO.",10
-Track inspection for cover board replacement on the L1 Track from 15.4-15.6,13
-"L30 is opened, unstaffed.",10
-T511 will be a hole from M90 to L30. Train runs OOS to L30. T513 will be in/out at L30 as T511. L30 will be rolling numbers all day.,11
-M-Line Blanket released back to Central.,10
-"T229 no ATO doors at S20-2, 311.",5
-M/W Line open & staffed.,10
-R-Line open & staffed.,10
-"A/L/S Line open, A50 and L30 are unstaffed. BPD advised.",0
-Trains dispatching Daly City north transfer tracks are losing speed codes in the M97XL and need road manual to pick up speed codes.,7
-SA at M70 issued cat B work orders to retrieve a cell phone from the trackway. Trains holding out.,12
-C/K Line open & staffed.,10
-"SA at M70 clear of work orders. Small cone in the trackway, no hazard to ATO.",12
-"A50 is opened, unstaffed. BPD advised.",0
-"T445 BOIP approaching R30-2, Tango advised. Suspect is the lead unit.",1
-T501 reverse running L25-L13 for track inspection at MP 15.6-15.4. for coverboard repairs completed in the blanket last night.,12
-"T361 (5) minutes late arriving C30-2, 1st train track inspection for C35AB, cranks and clamps verified, area is good for ATO.",11
-T445 (5) minutes late arriving R30-2 for a BOIP. Lead unit C377 is PDBc/o and dumped.,11
-"T501 reports track inspection complete, area is clear for ATO traffic.",13
-L30 is staffed. BPD advised.,10
-"T501(8) minutes late arriving L10-2, track inspection for cover board repairs.",11
-SA at M70 issued Cat B work orders for the M2 track at M70 to retrieve a cone from the trackway.,12
-"IFO at A20A04. X FW advised.
+411,W-Line.blanket released back to Central.,10
+424,A/L Line Blanket released back to Central.,10
+427,C-Line Blanket released back to Central.,10
+432,Dispatches in progress.,10
+438,"T229 1st train track inspection for A78XL, cranks and clamps verified, area is good for ATO.",10
+445,Track inspection for cover board replacement on the L1 Track from 15.4-15.6,13
+447,"L30 is opened, unstaffed.",10
+447,T511 will be a hole from M90 to L30. Train runs OOS to L30. T513 will be in/out at L30 as T511. L30 will be rolling numbers all day.,11
+456,M-Line Blanket released back to Central.,10
+456,"T229 no ATO doors at S20-2, 311.",5
+456,M/W Line open & staffed.,10
+456,R-Line open & staffed.,10
+459,"A/L/S Line open, A50 and L30 are unstaffed. BPD advised.",0
+500,Trains dispatching Daly City north transfer tracks are losing speed codes in the M97XL and need road manual to pick up speed codes.,7
+503,SA at M70 issued cat B work orders to retrieve a cell phone from the trackway. Trains holding out.,12
+506,C/K Line open & staffed.,10
+508,"SA at M70 clear of work orders. Small cone in the trackway, no hazard to ATO.",12
+509,"A50 is opened, unstaffed. BPD advised.",0
+511,"T445 BOIP approaching R30-2, Tango advised. Suspect is the lead unit.",1
+512,T501 reverse running L25-L13 for track inspection at MP 15.6-15.4. for coverboard repairs completed in the blanket last night.,12
+515,"T361 (5) minutes late arriving C30-2, 1st train track inspection for C35AB, cranks and clamps verified, area is good for ATO.",11
+515,T445 (5) minutes late arriving R30-2 for a BOIP. Lead unit C377 is PDBc/o and dumped.,11
+517,"T501 reports track inspection complete, area is clear for ATO traffic.",13
+518,L30 is staffed. BPD advised.,10
+519,"T501(8) minutes late arriving L10-2, track inspection for cover board repairs.",11
+522,SA at M70 issued Cat B work orders for the M2 track at M70 to retrieve a cone from the trackway.,12
+523,"IFO at A20A04. X FW advised.
 WO# 15765683 Grave
 TC5 Dispatched. Central denied wayside work orders. FO cleared with first running train.",10
-"SA at M70 clear of work orders for the M2 track, cone has been removed. Area is good for ATO.",12
-Elevator Status update and Cell phone advisory. Colma platform elevator is OOS.,10
-T449 late dispatch from ORY. Tower is moving an operator up and investigating why T449 was late.,11
-T447 BPD hold at K30 for a suspicious person.,1
-"T449 (7) minutes late arriving R50-2, tower scheduling issue/staffing shortage. Outbound T/O tardy, tower unaware that there was a staffing shortage. UOR requested.",11
-BPD has just arrived at K30. Train is been holding for 13 minutes.,1
-T3675 issued Cat B work orders for the S1/S2 Tracks from MP 29.01 to S55EOT for track inspection.,13
-"T447 released ATO, now (16)minutes late, apology TPA made on the train. No other trains delayed by the hold. Officers were unable to locate a suspect.",11
-Medic16 checked in.,10
-"T363 no ATO doors at M20-1, 311.",5
-"EQUIPMENT
+525,"SA at M70 clear of work orders for the M2 track, cone has been removed. Area is good for ATO.",12
+527,Elevator Status update and Cell phone advisory. Colma platform elevator is OOS.,10
+528,T449 late dispatch from ORY. Tower is moving an operator up and investigating why T449 was late.,11
+531,T447 BPD hold at K30 for a suspicious person.,1
+534,"T449 (7) minutes late arriving R50-2, tower scheduling issue/staffing shortage. Outbound T/O tardy, tower unaware that there was a staffing shortage. UOR requested.",11
+544,BPD has just arrived at K30. Train is been holding for 13 minutes.,1
+547,T3675 issued Cat B work orders for the S1/S2 Tracks from MP 29.01 to S55EOT for track inspection.,13
+549,"T447 released ATO, now (16)minutes late, apology TPA made on the train. No other trains delayed by the hold. Officers were unable to locate a suspect.",11
+559,Medic16 checked in.,10
+559,"T363 no ATO doors at M20-1, 311.",5
+0600,"EQUIPMENT
 R65XL 27mph speed restriction [key-imposed] due to switch configuration (#10 up against three #15's). Minimal delays in/out of Richmond Yard.
 Zero speed codes Y05 A-F & F-D. (1-3) minutes delays due to road manual in area.",6
-,0
-,0
-,0
-Medic10 checked in.,10
-"T383 no ATO doors at M90-2, 311.",5
-"T451 BPD hold at M16-1 for a man with a gun. Once train is holding, trains will run through at M16-2.",1
-"T451 BPD hold moved to M30-1. Once train is holding, trains will be running thru on the the M2 Track. BPD will search the train for a possibly armed subject with a gun on the train.",1
-"T101 (4) minutes late departing M90-1, delayed 311 at M90-2 on T383.",11
-"T451 released ATO, now (1) minute late. M30 released back to ATO. No trains ran thru.",11
-M45(Johnson) at M16 for commute.,10
-"T377 no ATO doors at C88-3, 311.",5
-A2(Dangerfield) at A10 for commute.,10
-"T115 no ATO doors at S20-1, 311.",5
-C21(Scott-Lyles) at K30 for commute.,10
-"T223 no ATO doors at S20-2, 311.",5
-"[MDRX] T373 BPD hold at M10-1 for a possible medical in C1863, 8th car back. C21(Scott-Lyles), Medic10 are both advised and will respond.",3
-C3(Grier) at K30 for commute.,10
-"T373 released ATO, BPD responded and was able to get the subject off the train.",1
-T449 reporting a brake smell between K10 and K20. T231 is the suspect. Ventilation established.,5
-Medic10 back in service.,10
-T327 BOIP approaching C25-2. Does not clear in Road manual. Tango advised. Trains holding back. T327 will do a 90 second aux cycle.,7
-"T327 back in ATO, Aux cycle cleared the BOIP. T327 is now (7) minutes late with residual delays to T377(5) minutes and T331(5) minutes late.",7
-"T453 no ATO doors at W40-3, 311.",5
-"T227 no ATO doors at S20-2, 311.",5
-"T367 (5) minutes late departing Y10-2, T301 was mis-routed Y05FD. Controller procedure.",7
-"T517 will be OOS at M90, C1894 has an inverter down, tech has cabled up the car, battery is not taking a charge.",5
-"T227 no ATO doors at S20-2, 311.",5
-"T227 no ATO doors at S20-2, 311.",5
-T453 reported to Tango that the train feels like it is dragging. Tech will board at M90 and check the train.,5
-"T377 no ATO doors at M16-1, 311.",5
-"Per S20 TM, All 100's series operators are making their own turns due to staffing shortages. Trains may be dispatching a little late from S20.",0
-T331 will be turning back at M90-1 as the new T517. ODY has no spare.,11
-"T229 no ATO doors at S20-2, 311.",5
-T453 possible medical on on C3029. Passengers report sick passenger offboarded the train at M60-2. T453 released ATO. SA heading down to investigate.,3
-SA at M60 checking the platform for the medical that offboarded at M60-2.,3
-"T327 (9) minutes late departing M20-2, late in/out for the turn due to earlier BOIP.",11
-"T323 no ATO doors at C50-2, 311.",5
-"T329 (5) minutes late arriving M10-1, congestion due to earlier late trains on the K-Line.",11
-C3 clear of K30 for commute.,10
-"T441 no ATO doors at M16-1, 311.",5
-"T441 no ATO doors at M20-1, 311.",5
-"T105 no ATO doors at S20-1, 311.",5
-"T329 (11)minutes late departing M20-2, late on K-Line due to congestion, late in/out for the turn at M20. Residual delays to T379 (6) minutes, T519(5) minutes, T443(3.5) minutes, T321(3.5) minutes. T119 (3.5) minutes late.",11
-"T233 no ATO doors at S20-2, 311.",5
-"T441 (5) minutes late arrivign M70-1, congestion due to earlier late trains.",11
-"T329 no ATO doors at M16-2, 311.",5
-"T917 OOS at M90-1 for an inverter car that won't take charge when cabled up by the tech. T331 will terminate at M90 and turn back to L30 as the new T517. TPA made for passengers to transfer at M80 to the Airport Train, 7 minutes back. TPA made on the new T517 departing M70-1.",5
-"T107 no ATO doors at S20-1, 311.",5
-"T371 no ATO doors at M20-2, 311.",5
-"T517 (7) minutes late departing M90-2, T331 taken late in/out as a replacement train fro T517, no spares available.",11
-"T103 no ATO doors at A20-2, 311.",5
-T361 BPD hold at C40-2 for a subject threatening other passengers. Trains holding back.,1
-M3(Matthews) at M16 for commute watch.,10
-"T327 (15) minutes late departing C50-2, late in/out for the turn, no spare available.",11
-"T235 no ATO doors at S20-2, 311.",5
-"T361 released ATO, now (5) minutes late, residual delay to T327 (14) minutes late, compounded, T451 (8) minutes, T107 (5.5) minutes late.",11
-"T377 (4) minutes late departing Y10-1, late in/out from from C-Line delay for a BOIP on T327.",11
-"T103 no ATO doors at M10-1, 311.",5
-"T441 no ATO doors at W40-3, 311.",5
-"T329 (13) minutes late departing C50-2, late turn at M20, late for the turn at C50. No spare available.",11
-"T103 no ATO doors at M16-1, 311.",5
-"T103 no ATO doors at M20-1, 311.",5
-"T103 no ATO doors at M30-1, 311.",5
-"Speed restriction established for C55 work area, C1/C2 tracks from the Tower to the C60 interface.",13
-"T385 no ATO doors at M20-1, 311.",5
-T229 BPD hold at R60-1 for a youth spraying some aerosol on the train.,4
-"T377 (5) minute late arriving M80-2, train was 4 minutes late departing Y10 due to inbound delay, congestion.",11
-"T229 released ATO, no delay. Train is at the end of it's run.",10
-"T239 no ATO doors at S20-2, 311.",5
-"T501 no ATO doors at M20-2, 311.",5
-"T363 PSF at K30-2, 1.5 cars out. Apology TPA made. train is continuing on. T329 arriving C10-2, will go to SFIA for delay mitigation, then OOS back to ODY.",11
-T363 BPD hold at K10-2 for a disturbance.,1
-T451 BPD hold at M10-1 for a fare evader.,4
-"AM Rush Rating:
+0600,,0
+0600,,0
+0600,,0
+600,Medic10 checked in.,10
+612,"T383 no ATO doors at M90-2, 311.",5
+613,"T451 BPD hold at M16-1 for a man with a gun. Once train is holding, trains will run through at M16-2.",1
+615,"T451 BPD hold moved to M30-1. Once train is holding, trains will be running thru on the the M2 Track. BPD will search the train for a possibly armed subject with a gun on the train.",1
+619,"T101 (4) minutes late departing M90-1, delayed 311 at M90-2 on T383.",11
+622,"T451 released ATO, now (1) minute late. M30 released back to ATO. No trains ran thru.",11
+637,M45(Johnson) at M16 for commute.,10
+640,"T377 no ATO doors at C88-3, 311.",5
+641,A2(Dangerfield) at A10 for commute.,10
+644,"T115 no ATO doors at S20-1, 311.",5
+649,C21(Scott-Lyles) at K30 for commute.,10
+651,"T223 no ATO doors at S20-2, 311.",5
+658,"[MDRX] T373 BPD hold at M10-1 for a possible medical in C1863, 8th car back. C21(Scott-Lyles), Medic10 are both advised and will respond.",3
+701,C3(Grier) at K30 for commute.,10
+705,"T373 released ATO, BPD responded and was able to get the subject off the train.",1
+707,T449 reporting a brake smell between K10 and K20. T231 is the suspect. Ventilation established.,5
+710,Medic10 back in service.,10
+710,T327 BOIP approaching C25-2. Does not clear in Road manual. Tango advised. Trains holding back. T327 will do a 90 second aux cycle.,7
+715,"T327 back in ATO, Aux cycle cleared the BOIP. T327 is now (7) minutes late with residual delays to T377(5) minutes and T331(5) minutes late.",7
+715,"T453 no ATO doors at W40-3, 311.",5
+717,"T227 no ATO doors at S20-2, 311.",5
+721,"T367 (5) minutes late departing Y10-2, T301 was mis-routed Y05FD. Controller procedure.",7
+725,"T517 will be OOS at M90, C1894 has an inverter down, tech has cabled up the car, battery is not taking a charge.",5
+727,"T227 no ATO doors at S20-2, 311.",5
+727,"T227 no ATO doors at S20-2, 311.",5
+731,T453 reported to Tango that the train feels like it is dragging. Tech will board at M90 and check the train.,5
+738,"T377 no ATO doors at M16-1, 311.",5
+741,"Per S20 TM, All 100's series operators are making their own turns due to staffing shortages. Trains may be dispatching a little late from S20.",0
+742,T331 will be turning back at M90-1 as the new T517. ODY has no spare.,11
+742,"T229 no ATO doors at S20-2, 311.",5
+743,T453 possible medical on on C3029. Passengers report sick passenger offboarded the train at M60-2. T453 released ATO. SA heading down to investigate.,3
+745,SA at M60 checking the platform for the medical that offboarded at M60-2.,3
+745,"T327 (9) minutes late departing M20-2, late in/out for the turn due to earlier BOIP.",11
+745,"T323 no ATO doors at C50-2, 311.",5
+747,"T329 (5) minutes late arriving M10-1, congestion due to earlier late trains on the K-Line.",11
+751,C3 clear of K30 for commute.,10
+751,"T441 no ATO doors at M16-1, 311.",5
+755,"T441 no ATO doors at M20-1, 311.",5
+759,"T105 no ATO doors at S20-1, 311.",5
+0802,"T329 (11)minutes late departing M20-2, late on K-Line due to congestion, late in/out for the turn at M20. Residual delays to T379 (6) minutes, T519(5) minutes, T443(3.5) minutes, T321(3.5) minutes. T119 (3.5) minutes late.",11
+802,"T233 no ATO doors at S20-2, 311.",5
+805,"T441 (5) minutes late arrivign M70-1, congestion due to earlier late trains.",11
+805,"T329 no ATO doors at M16-2, 311.",5
+0808,"T917 OOS at M90-1 for an inverter car that won't take charge when cabled up by the tech. T331 will terminate at M90 and turn back to L30 as the new T517. TPA made for passengers to transfer at M80 to the Airport Train, 7 minutes back. TPA made on the new T517 departing M70-1.",5
+810,"T107 no ATO doors at S20-1, 311.",5
+813,"T371 no ATO doors at M20-2, 311.",5
+814,"T517 (7) minutes late departing M90-2, T331 taken late in/out as a replacement train fro T517, no spares available.",11
+814,"T103 no ATO doors at A20-2, 311.",5
+821,T361 BPD hold at C40-2 for a subject threatening other passengers. Trains holding back.,1
+822,M3(Matthews) at M16 for commute watch.,10
+822,"T327 (15) minutes late departing C50-2, late in/out for the turn, no spare available.",11
+825,"T235 no ATO doors at S20-2, 311.",5
+826,"T361 released ATO, now (5) minutes late, residual delay to T327 (14) minutes late, compounded, T451 (8) minutes, T107 (5.5) minutes late.",11
+830,"T377 (4) minutes late departing Y10-1, late in/out from from C-Line delay for a BOIP on T327.",11
+832,"T103 no ATO doors at M10-1, 311.",5
+833,"T441 no ATO doors at W40-3, 311.",5
+839,"T329 (13) minutes late departing C50-2, late turn at M20, late for the turn at C50. No spare available.",11
+840,"T103 no ATO doors at M16-1, 311.",5
+842,"T103 no ATO doors at M20-1, 311.",5
+844,"T103 no ATO doors at M30-1, 311.",5
+845,"Speed restriction established for C55 work area, C1/C2 tracks from the Tower to the C60 interface.",13
+845,"T385 no ATO doors at M20-1, 311.",5
+846,T229 BPD hold at R60-1 for a youth spraying some aerosol on the train.,4
+849,"T377 (5) minute late arriving M80-2, train was 4 minutes late departing Y10 due to inbound delay, congestion.",11
+852,"T229 released ATO, no delay. Train is at the end of it's run.",10
+853,"T239 no ATO doors at S20-2, 311.",5
+854,"T501 no ATO doors at M20-2, 311.",5
+855,"T363 PSF at K30-2, 1.5 cars out. Apology TPA made. train is continuing on. T329 arriving C10-2, will go to SFIA for delay mitigation, then OOS back to ODY.",11
+857,T363 BPD hold at K10-2 for a disturbance.,1
+858,T451 BPD hold at M10-1 for a fare evader.,4
+0900,"AM Rush Rating:
 
 63 Trains/568 Cars in Service
 
@@ -316,237 +316,237 @@ AM Rush rated Poor: SCRAM Compliance (Holes)
 
 
 Notes: OCY, ORY ODY were all reporting car shortages. All towers and TM's reporting staffing shortages.",10
-BPD reports officers are at M10 and K10 for the holds.,1
-"T451 released ATO, compounded delay, now (7) minutes late. TPA made.",11
-"T363 released ATO, now (5) minutes late, residual delays to T225(5) minutes, T329 (16) minutes late compounded. T453 (5) minutes late.",11
-"T241 no ATO doors at S20-2, 311.",5
-T235 BPD hold at K20-1 for BPD to offboard a subject.,1
-"T115 no ATO doors at S20-2, 311.",5
-"T235 released ATO, will now extend for the meet at K20 with the late T377, now (5) minutes late.",11
-"T453 approaching M16-1, train will be OOS when it gets back to R60 due to multiple flats on the train.",5
-"T363 no ATO doors at M20-1, 311.",5
-"T221 no ATO doors at S20-2, 311.",5
-"T235 no ATO doors at R10-1, 311.",5
-"T223 no ATO doors at S20-2, 311.",5
-"T367 no ATO doors at M16-1 , 311.",5
-T239 BPD hold at R10-1 for a welfare check.,1
-"T239 released ATO, now (3) minutes late.",11
-T329/959 9 car FOTF balance train from Y10 to OCY.,11
-"T101 no ATO doors at S20-1, 311.",5
-Medic16 checked out.,10
-T241 BPD hold at K30-2 for drug usage.,4
-"T227 no ATO doors at S20-2, 311.",5
-"T103 no ATO doors at S20-1, 311.",5
-"T229 no ATO doors at S20-2, 311.",5
-T950 9 car balance train from ODY to L30.,10
-"T459 no ATO doors at M90-3, 311.",5
-"T105 no ATO doors at S20-1, 311.",5
-T515 multiple door opens approaching M80-2. Train is stopped in the M85CD. Operator heading back to check the mid-c cars. Tango advised.,7
-9 car balance train put in service at M60-2 for delay mitigation/passenger service.,11
-"T231 no ATO doors at S20-2, 311.",5
-"T915 operator heading back to the cab, mid consist C cars are clear, T915 authorized to activate door bypass, operator making announcements for passengers to stand clear. Will normalize the door bypass at M80-2 prior to cycling doors. T365 will track inspect behind T915 through M85XL.",7
-"T915 ATO, operator didn't have to activate the door bypass. T915 now (8) minutes late with residual delays to T365(7) minutes, T115 (7) minutes, T455 (4) minutes late.",7
-"TPA on T915, T365 and T115.",11
-"T107 reported someone possibly wayside near MP 27.5 on the S1/S2 tracks. T231 track inspected the area and reports that there is a homeless encampment near the mile post, but no one was observed wayside. Area released back to ATO.",12
-"T103 no ATO doors at A30-2, 311.",5
-"T103 no ATO doors at A20-2, 311.",5
-T379 BPD hold at K30-4 for drug activty.,1
-"T103 no ATO doors at A10-2, 311.",5
-"T109 no ATO doors at S20-1, 311.",5
-"T379 released ATO, now (5) minutes late. T241 routed ahead at K25CD for delay mitigation. .",11
-T455 routed up the MX/CX track. Door TPA made.,11
-"T503 no ATO doors at M30-1, 311.",5
-"T235 no ATO doors at S20-2, 311.",5
-"T501 no ATO doors at M90-1, 311.",5
-"T503 no ATO doors at M40-1, 311.",5
-"T503 no ATO doors at M50-1, 311.",5
-"T503 no ATO doors at M60-1, 311.",5
-"T503 no ATO doors at M70-1, 311.",5
-"T237 no ATO doors at S20-2, 311.",5
-"T503 no ATO doors at M80-1, 311.",5
-"T459 no ATO doors at M20-2, 311.",5
-"T503 no ATO doors at M90-1, 311.",5
-"T113 no ATO doors at S20-1, 311.",5
-"T237 no ATO doors at S20-2, 311.",5
-"T113 no ATO doors at S20-1, 311.",5
-T223 BPD hold at A10-2 for an intoxicated passenger.,4
-"T223 released ATO, now (4.5) minutes late.",11
-"T239 no ATO doors at S20-2, 311.",5
-"T301 no ATO doors at Y10-3, 311.",5
-T233 BPD hold at R20-1 for a welfare check.,1
-"T103 no ATO doors at M20-2, 311.",5
-T363 BPD hold at C40-2 for BPD to offboard a subject.,1
-"T233 released ATO, now (2.5) minutes late.",11
-"T363 released ATO, no (3) minutes late.",11
-"T241 no ATO doors at S20-2, 311.",5
-"T117 no ATO doors at S20-1, 311.",5
-"T221 no ATO doors at S20-2, 311.",5
-"T119 no ATO doors at S20-1, 311.",5
-"T223 no ATO doors at S20-2, 311.",5
-"T363 no ATO doors at M20-1, 311.",5
-T373 BPD hold at C80 for a sweep.,1
-T377 BPD hold at C10-1 for a disturbance.,1
-"T915 no ATO doors at M20-1, 311.",5
-"T225 no ATO doors at S20-2, 311.",5
-"T449 no ATO doors at M90-2, 311.",5
-"T377 released ATO, now (1.5) minutes late.",11
-"T373 released ATO, now (1.5) minutes late.",11
-"T225 no ATO doors at S20-2, 311.",5
-"M60 Fire summary alarm, manual pull activated, barriers open. BPD advised.",1
-"T365 no ATO doors at M16-1, 311.",5
-"T113 no ATO doors at M90-1, 311.",5
-"T365 no ATO doors at M20-1, 311.",5
-"T365 no ATO doors at M30-1, 311.",5
-"T227 no ATO doors at S20-2, 311.",5
-"T365 no ATO doors at M40-1, 311.",5
-"T227 no ATO doors at S20-2, 311.",5
-"T367 no ATO doors at M16-1, 311.",5
-"T229 no ATO doors at S20-2, 311.",5
-"T229 no ATO doors at S20-2, 311.",5
-"T371 no ATO doors at M16-1, 311.",5
-T223 BPD hold at R60-1 for an intoxicated individual.,1
-"T223 released ATO, no delay. Train is at the end of line.",10
-"T111 no ATO doors at S20-1, 311.",5
-"T235 no ATO doors at S20-2, 311.",5
-"T367 no ATO doors at M40-2, 311.",5
-"T377 no ATO doors at M16-1, 311.",5
-"T237 no ATO doors at S20-2, 311.",5
-"T367 no ATO doors at M30-2, 311.",5
-"T367 no ATO doors at M20-2, 311.",5
-"T225 no ATO doors at R30-2, 311.",5
-"T103 no ATO doors at M20-2, 311.",5
-"T367 M16-2 311's through downtown SF and has been running half speed since about M40. OCC asked if he was half speed when he asked if he was on SORS in the TBT, he acknowledged he was and stopped to resume full speed. About 6 minutes late now, following 2 trains also delayed leaving SF.",11
-"T449 no ATO doors at M20-1, 311.",5
-"T225 no ATO doors at R20-2, 311.",5
-"T379 no ATO doors at M16-1, 311.",5
-"T503 no ATO doors at A20-1, 311.",5
-"T503 no ATO doors at A30-1, 311.",5
-"T241 no ATO doors at S20-2, 311.",5
-"T229 no ATO doors at R60-2, 311.",5
-T229 R60-2 dispatched on time but needed a 311 at the platform. Tried a 20 second AUX cycle to clear a possible SET but did not work. After AUX and Rule 311 now 4 late.,5
-"T371 no ATO doors at M20-2, 311.",5
-"T229 no ATO doors at R50-2, 311.",5
-"T511 no ATO doors at M90-1, 311.",5
-"T229 no ATO doors at R40-2, 311.",5
-"T221 no ATO doors at S20-2, 311.",5
-T-4 issued work orders at W15XL for the weekly PUC track inspection. Crew was unable to get to it yesterday due to the fire at M87XL. Speed restriction established.,13
-"T229 no ATO doors at R30-2, 311.",5
-"T229 R30-2 needing 311's at all stations, operator tried another AUX cycle to clear, still no luck. 311's continue, now 9 late. Tech will meet the train at K30, the closest they can get to it. T457 delayed 6 minutes.",7
-T235 R40-1 BPD hold for weed smokers on board.,4
-"T235 released ATO, 1 minute delay.",11
-"T383 no ATO doors at M20-1, 311.",5
-Medic's 10 and 16 checked in.,10
-"T515 no ATO doors at M16-1, 311.",5
-"T381 no ATO doors at M90-3, 311.",5
-"T515 no ATO doors at M20-1, 311.",5
-T371 C40-1 BPD hold for a welfare check.,1
-"T373 no ATO doors at M10-2, 311.",5
-"T109 no ATO doors at M10-2, 311.",5
-"T113 no ATO doors at M90-1, 311.",5
-"T385 no ATO doors at M20-1, 311.",5
-"T103 no ATO doors at S20-1, 311.",5
-"T-4 is clear of work orders for the W15XL, all protections removed.",13
-"T109 A10-1 road manual into/out of M10 for a BPD report of an extremely erratic woman on the platform, then A10A-B route failed, total delay 5 minutes.",4
-"T225 no ATO doors at S20-2, 311.",5
-T511 A10-1 BPD hold for a welfare check.,1
-"T105 no ATO doors at S20-1, 311.",5
-"T441 BOIP approaching R50-2, TO completing Aux cycle. Tech en route",7
-"T441 approaching R50-2 stopped with a BOIP, trying an AUX cycle to clear it.",7
-"T227 no ATO doors at S20-2, 311.",5
-"T441 reports they are moving ATO after the AUX cycle, but now have a prop. overload. Tango-1 updated. 3+ minute delay.",7
-"T449 M20-2 door open, instructed to do a couple more door cycles to try and clear it.",7
-"T441 9.3 R2 track stopped again with the BOIP, doing another AUX cycle per Tango-1.",7
-"T449 moving ATO, door open self cleared, 3 minute delay.",11
-"T517 no ATO doors at M90-1, 311.",5
-"T441 ATO once again, now 6 late.",11
-"T441 7.6 R2 track stopped again with the BOIP, trying road manual per Tango-1. Tech approaching on T457.",7
-T441 departing R30-2 11 late now after road manual to the station. Tech boarded up and as soon as the train departed the BOIP came back. Tech is troubleshooting now.,7
-"T451 no ATO doors at M20-2, 311.",5
-"T229 no ATO doors at S20-2, 311.",5
-Tech on board T441 cut and dumped C342 for the ongoing BOIP. 13 minute total delay to the train. Following 2 trains delayed 3-6 minutes each.,7
-"T515 no ATO doors at A20-1, 311.",5
-,0
-,0
-,0
-"T325 no ATO doors at M90-2, 311.",5
-"T519 no ATO doors at M70-2, 311.",5
-T107 A50-2 BPD hold to remove someone from the train.,4
-T449 R50-1 BPD hold for a disturbance on board.,1
-"T361 no ATO doors at Y10-1, 311.",5
-"T107 released ATO, 1 minute delay.",11
-"T449 released ATO, 4 minute hold, now 5 late.",11
-"T231 no ATO doors at S20-1, 311.",5
-T103 M40-1 BPD hold for a welfare check.,1
-"T519 no ATO doors at M16-2, 311.",5
-"T323 K10-3 BPD hold for a possible medical emergency. BPD not at the station, but are rolling medical. TO and agent heading back to check.",3
-"T103 released ATO, 6 minute delay. They removed someone from the train in handcuffs. Following trains all delayed into SF.",1
-"K10 agent reports the individual is off the train and on the platform, but is very aggressive and charging at her. We have instructed her to return to the booth and the TO to the cab. The patron then started a fight with patrons on the platform. BPD updated and T323 instructed to close doors but remain holding.",4
-"T241 no ATO doors at K30-2, 311.",5
-"T233 no ATO doors at S20-2, 311.",5
-"T113 no ATO doors at S20-1, 311.",5
-"T323 released ATO, BOD have arrived and placed the individual into custody. 13 minute delay.",4
-T385 K10-3 BPD hold for a welfare check.,1
-"T505 no ATO doors at M90-2, 311.",5
-"T115 no ATO doors at S20-1, 311.",5
-"T385 released ATO, 3 minute delay.",11
-"T443 W10-1 TO re-positioned into the station for some reason, now says the console will not reset. Worked with Tango-1 but no change. TO changing ends and will be the new 441 in service to R60. 15 minute delay to W40 passengers. T369 delayed 9 minutes, T445 delayed 5 minutes.",7
-"T459 no ATO doors at M20-2, 311.",5
-"T443 no ATO doors at W40-3, 311.",5
-"T505 no ATO doors at M20-2, 311.",5
-"T117 no ATO doors at S20-1, 311.",5
-T333 hole M90 to C75 due to car shortage. This run has been removed from the Trip Planner.,11
-"T505/905 OOS at A50 to OHY, per Tango-1 there are large flats on the trailing 2 cars. Supervisor at A50 will assist with the sweep.",5
-"T325 no ATO doors at C50-2, 311.",5
-"T107 no ATO doors at M90-1, 311.",5
-"T331 M70-2 door open, no suspects, sweeping OOS. Train has been at the station over 4 minutes, TO just called.",0
-TPA's.,11
-"T449 no ATO doors at M20-1, 311.",5
-"T239 no ATO doors at S20-2, 311.",5
-"T509 no ATO doors at M90-1, 311.",5
-"T331/931 moving ATO, running through to a tech at M50. All following trains delayed 13 minutes departing SF. Patron interference .",4
-"T119 no ATO doors at S20-1, 311.",5
-"T327 no ATO doors at C50-2, 311.",5
-"T109 no ATO doors at M90-1, 311.",5
-"T509 no ATO doors at M80-2, 311.",5
-"T109 M90-1 unable to do the rule 311 readback due to a bad radio, eventually switched to portable, now 5 late. Trains in the area delayed into and out of M90 due to the congestion.",7
-"T451 M16-1 door open, supervisor closed the door from the outside, 2 minute delay. Patron interference for blocking the doors.",4
-T337 hole M90 to C85 due to car shortage. This run has been removed from the Trip Planner.,11
-"T363 C10-1 report of someone having a seizure on C1595, agent going up.",3
-"C10 agent reports the woman says she fell and is fine, refused medical assistance, T363 released ATO, 3 minute delay, now 6 late.",3
-"T331 M10-2 back in service, door open self cleared and the tech has found nothing unusual.",5
-"T329 no ATO doors at C50-2, 311.",5
-"T377 no ATO doors at M16-1, 311.",5
-"T113 no ATO doors at M40-1, 311.",5
-T367 M30-2 BPD hold for a disturbance on board.,1
-"T505 had C1519 with the communications circuit breaker tripped, no announcements could be heard on multiple cars. Tech and Supervisor are keying all the patrons off the train at A60 so they can get back to A50. T119 holding A60-2 for the passengers.",6
-"T377 no ATO doors at M20-1, 311.",5
-"T367 released ATO, 2 minute hold, now 13 late.",11
-"T905 moving ATO to OHY, all patrons are now on board T119 to A50, supervisor stayed with them to make sure they all got on board the train.",5
-"T449 W20-1 10 mph track inspection into the station, the previous train (373) reported feeling something strange as they entered the station. T449 reports nothing unusual at all and its good for ATO. 5 minute delay, now 10 late total.",6
-"T451 no ATO doors at M90-3, 311.",5
-"T113 no ATO doors at M90-1, 311.",5
-New T505 dispatching from OHY stopped in A75XL with a BOIP. Dropping the route while the TO troubleshoots. T505 now a hole all the way from L30 to M90. Will try to turn back short on the M- line into the proper slot.,6
-"T441 hold ORY to W40, C1270 would not reset causing the train to turn back at W10 earlier, no operators in the yard made re-configuring the train time consuming.",6
-"T449 M30-2 door open, TO trying multiple cycles to clear before sweeping.",5
-"T505 re-dispatched from OHY this time no problem, same cars. The train will run OOS to the M- line and be turned back short somewhere.",11
-"T449 moving ATO, the 101 operator locked out doors 1+3 on C1633. T449 was delayed 4 minutes by the 329 turn at M60 and 5 minutes by the door open, now 11 minutes late in total. All following trains further delayed down the M2 track leaving SF. T101 delayed 3 minutes.",11
-"T385 no ATO doors at M20-1, 311.",5
-"T515 no ATO doors at A20-1, 311.",5
-T365 C80-2 late in/out 15 minutes late. Train was late due to the 331 door open at M70. No spare because C80 sent the 323 to the yard earlier instead of keeping it to protect the commute.,11
-"T109 no ATO doors at S20-1, 311.",5
-"T103 no ATO doors at M16-1, 311.",5
-"T229 no ATO doors at S20-2, 311.",5
-"T367 C80-2 8 minutes late in/out, delayed on the M-line. No spare because C80 sent the 321 to the yard instead of using it for the 367.",11
-"T103 no ATO doors at M20-1, 311.",5
-"T377 no ATO doors at M16-2, 311.",5
-"T103 no ATO doors at M30-1, 311.",5
-"T103 M30-1 multiple rule 311's, quick AUX cycle to clear the SET in the trailing car, good ATO doors now.",7
-"T363 no ATO doors at M20-1, 311.",5
-T455 K10-1 BPD hold for a fight on board the train.,1
-"T235 no ATO doors at S20-2, 311.",5
-"T459 no ATO doors at M90-2, 311.",5
-"T235 no ATO doors at S20-2, 311.",5
-"T455 released ATO, 8 minute delay.",11
-"T455 released ATO, 8 minute delay.",11
-"T455 released ATO, 8 minute delay.",11
-"T767 no ATO doors at M16-1, 311.",5
+902,BPD reports officers are at M10 and K10 for the holds.,1
+904,"T451 released ATO, compounded delay, now (7) minutes late. TPA made.",11
+904,"T363 released ATO, now (5) minutes late, residual delays to T225(5) minutes, T329 (16) minutes late compounded. T453 (5) minutes late.",11
+907,"T241 no ATO doors at S20-2, 311.",5
+911,T235 BPD hold at K20-1 for BPD to offboard a subject.,1
+912,"T115 no ATO doors at S20-2, 311.",5
+915,"T235 released ATO, will now extend for the meet at K20 with the late T377, now (5) minutes late.",11
+918,"T453 approaching M16-1, train will be OOS when it gets back to R60 due to multiple flats on the train.",5
+918,"T363 no ATO doors at M20-1, 311.",5
+922,"T221 no ATO doors at S20-2, 311.",5
+925,"T235 no ATO doors at R10-1, 311.",5
+933,"T223 no ATO doors at S20-2, 311.",5
+942,"T367 no ATO doors at M16-1 , 311.",5
+947,T239 BPD hold at R10-1 for a welfare check.,1
+954,"T239 released ATO, now (3) minutes late.",11
+954,T329/959 9 car FOTF balance train from Y10 to OCY.,11
+958,"T101 no ATO doors at S20-1, 311.",5
+1000,Medic16 checked out.,10
+1001,T241 BPD hold at K30-2 for drug usage.,4
+1006,"T227 no ATO doors at S20-2, 311.",5
+1014,"T103 no ATO doors at S20-1, 311.",5
+1020,"T229 no ATO doors at S20-2, 311.",5
+1020,T950 9 car balance train from ODY to L30.,10
+1023,"T459 no ATO doors at M90-3, 311.",5
+1024,"T105 no ATO doors at S20-1, 311.",5
+1028,T515 multiple door opens approaching M80-2. Train is stopped in the M85CD. Operator heading back to check the mid-c cars. Tango advised.,7
+1031,9 car balance train put in service at M60-2 for delay mitigation/passenger service.,11
+1033,"T231 no ATO doors at S20-2, 311.",5
+1034,"T915 operator heading back to the cab, mid consist C cars are clear, T915 authorized to activate door bypass, operator making announcements for passengers to stand clear. Will normalize the door bypass at M80-2 prior to cycling doors. T365 will track inspect behind T915 through M85XL.",7
+1035,"T915 ATO, operator didn't have to activate the door bypass. T915 now (8) minutes late with residual delays to T365(7) minutes, T115 (7) minutes, T455 (4) minutes late.",7
+1040,"TPA on T915, T365 and T115.",11
+1040,"T107 reported someone possibly wayside near MP 27.5 on the S1/S2 tracks. T231 track inspected the area and reports that there is a homeless encampment near the mile post, but no one was observed wayside. Area released back to ATO.",12
+1048,"T103 no ATO doors at A30-2, 311.",5
+1052,"T103 no ATO doors at A20-2, 311.",5
+1054,T379 BPD hold at K30-4 for drug activty.,1
+1056,"T103 no ATO doors at A10-2, 311.",5
+1058,"T109 no ATO doors at S20-1, 311.",5
+1059,"T379 released ATO, now (5) minutes late. T241 routed ahead at K25CD for delay mitigation. .",11
+1103,T455 routed up the MX/CX track. Door TPA made.,11
+1104,"T503 no ATO doors at M30-1, 311.",5
+1104,"T235 no ATO doors at S20-2, 311.",5
+1104,"T501 no ATO doors at M90-1, 311.",5
+1106,"T503 no ATO doors at M40-1, 311.",5
+1110,"T503 no ATO doors at M50-1, 311.",5
+1113,"T503 no ATO doors at M60-1, 311.",5
+1116,"T503 no ATO doors at M70-1, 311.",5
+1117,"T237 no ATO doors at S20-2, 311.",5
+1119,"T503 no ATO doors at M80-1, 311.",5
+1119,"T459 no ATO doors at M20-2, 311.",5
+1123,"T503 no ATO doors at M90-1, 311.",5
+1125,"T113 no ATO doors at S20-1, 311.",5
+1125,"T237 no ATO doors at S20-2, 311.",5
+1128,"T113 no ATO doors at S20-1, 311.",5
+1130,T223 BPD hold at A10-2 for an intoxicated passenger.,4
+1140,"T223 released ATO, now (4.5) minutes late.",11
+1142,"T239 no ATO doors at S20-2, 311.",5
+1144,"T301 no ATO doors at Y10-3, 311.",5
+1145,T233 BPD hold at R20-1 for a welfare check.,1
+1147,"T103 no ATO doors at M20-2, 311.",5
+1151,T363 BPD hold at C40-2 for BPD to offboard a subject.,1
+1154,"T233 released ATO, now (2.5) minutes late.",11
+1154,"T363 released ATO, no (3) minutes late.",11
+1157,"T241 no ATO doors at S20-2, 311.",5
+1159,"T117 no ATO doors at S20-1, 311.",5
+1212,"T221 no ATO doors at S20-2, 311.",5
+1213,"T119 no ATO doors at S20-1, 311.",5
+1224,"T223 no ATO doors at S20-2, 311.",5
+1229,"T363 no ATO doors at M20-1, 311.",5
+1230,T373 BPD hold at C80 for a sweep.,1
+1230,T377 BPD hold at C10-1 for a disturbance.,1
+1230,"T915 no ATO doors at M20-1, 311.",5
+1232,"T225 no ATO doors at S20-2, 311.",5
+1233,"T449 no ATO doors at M90-2, 311.",5
+1235,"T377 released ATO, now (1.5) minutes late.",11
+1237,"T373 released ATO, now (1.5) minutes late.",11
+1239,"T225 no ATO doors at S20-2, 311.",5
+1241,"M60 Fire summary alarm, manual pull activated, barriers open. BPD advised.",1
+1242,"T365 no ATO doors at M16-1, 311.",5
+1243,"T113 no ATO doors at M90-1, 311.",5
+1244,"T365 no ATO doors at M20-1, 311.",5
+1246,"T365 no ATO doors at M30-1, 311.",5
+1248,"T227 no ATO doors at S20-2, 311.",5
+1249,"T365 no ATO doors at M40-1, 311.",5
+1256,"T227 no ATO doors at S20-2, 311.",5
+1257,"T367 no ATO doors at M16-1, 311.",5
+1302,"T229 no ATO doors at S20-2, 311.",5
+1308,"T229 no ATO doors at S20-2, 311.",5
+1327,"T371 no ATO doors at M16-1, 311.",5
+1335,T223 BPD hold at R60-1 for an intoxicated individual.,1
+1339,"T223 released ATO, no delay. Train is at the end of line.",10
+1343,"T111 no ATO doors at S20-1, 311.",5
+1352,"T235 no ATO doors at S20-2, 311.",5
+1410,"T367 no ATO doors at M40-2, 311.",5
+1412,"T377 no ATO doors at M16-1, 311.",5
+1413,"T237 no ATO doors at S20-2, 311.",5
+1414,"T367 no ATO doors at M30-2, 311.",5
+1416,"T367 no ATO doors at M20-2, 311.",5
+1418,"T225 no ATO doors at R30-2, 311.",5
+1419,"T103 no ATO doors at M20-2, 311.",5
+1419,"T367 M16-2 311's through downtown SF and has been running half speed since about M40. OCC asked if he was half speed when he asked if he was on SORS in the TBT, he acknowledged he was and stopped to resume full speed. About 6 minutes late now, following 2 trains also delayed leaving SF.",11
+1421,"T449 no ATO doors at M20-1, 311.",5
+1423,"T225 no ATO doors at R20-2, 311.",5
+1428,"T379 no ATO doors at M16-1, 311.",5
+1430,"T503 no ATO doors at A20-1, 311.",5
+1434,"T503 no ATO doors at A30-1, 311.",5
+1437,"T241 no ATO doors at S20-2, 311.",5
+1439,"T229 no ATO doors at R60-2, 311.",5
+1440,T229 R60-2 dispatched on time but needed a 311 at the platform. Tried a 20 second AUX cycle to clear a possible SET but did not work. After AUX and Rule 311 now 4 late.,5
+1443,"T371 no ATO doors at M20-2, 311.",5
+1445,"T229 no ATO doors at R50-2, 311.",5
+1448,"T511 no ATO doors at M90-1, 311.",5
+1449,"T229 no ATO doors at R40-2, 311.",5
+1449,"T221 no ATO doors at S20-2, 311.",5
+1452,T-4 issued work orders at W15XL for the weekly PUC track inspection. Crew was unable to get to it yesterday due to the fire at M87XL. Speed restriction established.,13
+1453,"T229 no ATO doors at R30-2, 311.",5
+1453,"T229 R30-2 needing 311's at all stations, operator tried another AUX cycle to clear, still no luck. 311's continue, now 9 late. Tech will meet the train at K30, the closest they can get to it. T457 delayed 6 minutes.",7
+1455,T235 R40-1 BPD hold for weed smokers on board.,4
+1458,"T235 released ATO, 1 minute delay.",11
+1458,"T383 no ATO doors at M20-1, 311.",5
+1500,Medic's 10 and 16 checked in.,10
+1500,"T515 no ATO doors at M16-1, 311.",5
+1501,"T381 no ATO doors at M90-3, 311.",5
+1502,"T515 no ATO doors at M20-1, 311.",5
+1505,T371 C40-1 BPD hold for a welfare check.,1
+1507,"T373 no ATO doors at M10-2, 311.",5
+1511,"T109 no ATO doors at M10-2, 311.",5
+1513,"T113 no ATO doors at M90-1, 311.",5
+1514,"T385 no ATO doors at M20-1, 311.",5
+1514,"T103 no ATO doors at S20-1, 311.",5
+1517,"T-4 is clear of work orders for the W15XL, all protections removed.",13
+1519,"T109 A10-1 road manual into/out of M10 for a BPD report of an extremely erratic woman on the platform, then A10A-B route failed, total delay 5 minutes.",4
+1522,"T225 no ATO doors at S20-2, 311.",5
+1523,T511 A10-1 BPD hold for a welfare check.,1
+1527,"T105 no ATO doors at S20-1, 311.",5
+1530,"T441 BOIP approaching R50-2, TO completing Aux cycle. Tech en route",7
+1531,"T441 approaching R50-2 stopped with a BOIP, trying an AUX cycle to clear it.",7
+1532,"T227 no ATO doors at S20-2, 311.",5
+1534,"T441 reports they are moving ATO after the AUX cycle, but now have a prop. overload. Tango-1 updated. 3+ minute delay.",7
+1536,"T449 M20-2 door open, instructed to do a couple more door cycles to try and clear it.",7
+1536,"T441 9.3 R2 track stopped again with the BOIP, doing another AUX cycle per Tango-1.",7
+1538,"T449 moving ATO, door open self cleared, 3 minute delay.",11
+1538,"T517 no ATO doors at M90-1, 311.",5
+1540,"T441 ATO once again, now 6 late.",11
+1543,"T441 7.6 R2 track stopped again with the BOIP, trying road manual per Tango-1. Tech approaching on T457.",7
+1549,T441 departing R30-2 11 late now after road manual to the station. Tech boarded up and as soon as the train departed the BOIP came back. Tech is troubleshooting now.,7
+1552,"T451 no ATO doors at M20-2, 311.",5
+1554,"T229 no ATO doors at S20-2, 311.",5
+1556,Tech on board T441 cut and dumped C342 for the ongoing BOIP. 13 minute total delay to the train. Following 2 trains delayed 3-6 minutes each.,7
+1559,"T515 no ATO doors at A20-1, 311.",5
+1600,,0
+1600,,0
+1600,,0
+1600,"T325 no ATO doors at M90-2, 311.",5
+1603,"T519 no ATO doors at M70-2, 311.",5
+1605,T107 A50-2 BPD hold to remove someone from the train.,4
+1607,T449 R50-1 BPD hold for a disturbance on board.,1
+1610,"T361 no ATO doors at Y10-1, 311.",5
+1611,"T107 released ATO, 1 minute delay.",11
+1612,"T449 released ATO, 4 minute hold, now 5 late.",11
+1612,"T231 no ATO doors at S20-1, 311.",5
+1613,T103 M40-1 BPD hold for a welfare check.,1
+1614,"T519 no ATO doors at M16-2, 311.",5
+1618,"T323 K10-3 BPD hold for a possible medical emergency. BPD not at the station, but are rolling medical. TO and agent heading back to check.",3
+1619,"T103 released ATO, 6 minute delay. They removed someone from the train in handcuffs. Following trains all delayed into SF.",1
+1620,"K10 agent reports the individual is off the train and on the platform, but is very aggressive and charging at her. We have instructed her to return to the booth and the TO to the cab. The patron then started a fight with patrons on the platform. BPD updated and T323 instructed to close doors but remain holding.",4
+1625,"T241 no ATO doors at K30-2, 311.",5
+1626,"T233 no ATO doors at S20-2, 311.",5
+1628,"T113 no ATO doors at S20-1, 311.",5
+1628,"T323 released ATO, BOD have arrived and placed the individual into custody. 13 minute delay.",4
+1639,T385 K10-3 BPD hold for a welfare check.,1
+1639,"T505 no ATO doors at M90-2, 311.",5
+1642,"T115 no ATO doors at S20-1, 311.",5
+1643,"T385 released ATO, 3 minute delay.",11
+1647,"T443 W10-1 TO re-positioned into the station for some reason, now says the console will not reset. Worked with Tango-1 but no change. TO changing ends and will be the new 441 in service to R60. 15 minute delay to W40 passengers. T369 delayed 9 minutes, T445 delayed 5 minutes.",7
+1652,"T459 no ATO doors at M20-2, 311.",5
+1656,"T443 no ATO doors at W40-3, 311.",5
+1656,"T505 no ATO doors at M20-2, 311.",5
+1659,"T117 no ATO doors at S20-1, 311.",5
+1700,T333 hole M90 to C75 due to car shortage. This run has been removed from the Trip Planner.,11
+1700,"T505/905 OOS at A50 to OHY, per Tango-1 there are large flats on the trailing 2 cars. Supervisor at A50 will assist with the sweep.",5
+1701,"T325 no ATO doors at C50-2, 311.",5
+1702,"T107 no ATO doors at M90-1, 311.",5
+1703,"T331 M70-2 door open, no suspects, sweeping OOS. Train has been at the station over 4 minutes, TO just called.",0
+1705,TPA's.,11
+1706,"T449 no ATO doors at M20-1, 311.",5
+1708,"T239 no ATO doors at S20-2, 311.",5
+1709,"T509 no ATO doors at M90-1, 311.",5
+1710,"T331/931 moving ATO, running through to a tech at M50. All following trains delayed 13 minutes departing SF. Patron interference .",4
+1712,"T119 no ATO doors at S20-1, 311.",5
+1715,"T327 no ATO doors at C50-2, 311.",5
+1716,"T109 no ATO doors at M90-1, 311.",5
+1716,"T509 no ATO doors at M80-2, 311.",5
+1717,"T109 M90-1 unable to do the rule 311 readback due to a bad radio, eventually switched to portable, now 5 late. Trains in the area delayed into and out of M90 due to the congestion.",7
+1719,"T451 M16-1 door open, supervisor closed the door from the outside, 2 minute delay. Patron interference for blocking the doors.",4
+1721,T337 hole M90 to C85 due to car shortage. This run has been removed from the Trip Planner.,11
+1721,"T363 C10-1 report of someone having a seizure on C1595, agent going up.",3
+1725,"C10 agent reports the woman says she fell and is fine, refused medical assistance, T363 released ATO, 3 minute delay, now 6 late.",3
+1725,"T331 M10-2 back in service, door open self cleared and the tech has found nothing unusual.",5
+1727,"T329 no ATO doors at C50-2, 311.",5
+1729,"T377 no ATO doors at M16-1, 311.",5
+1729,"T113 no ATO doors at M40-1, 311.",5
+1730,T367 M30-2 BPD hold for a disturbance on board.,1
+1730,"T505 had C1519 with the communications circuit breaker tripped, no announcements could be heard on multiple cars. Tech and Supervisor are keying all the patrons off the train at A60 so they can get back to A50. T119 holding A60-2 for the passengers.",6
+1731,"T377 no ATO doors at M20-1, 311.",5
+1738,"T367 released ATO, 2 minute hold, now 13 late.",11
+1738,"T905 moving ATO to OHY, all patrons are now on board T119 to A50, supervisor stayed with them to make sure they all got on board the train.",5
+1738,"T449 W20-1 10 mph track inspection into the station, the previous train (373) reported feeling something strange as they entered the station. T449 reports nothing unusual at all and its good for ATO. 5 minute delay, now 10 late total.",6
+1741,"T451 no ATO doors at M90-3, 311.",5
+1744,"T113 no ATO doors at M90-1, 311.",5
+1810,New T505 dispatching from OHY stopped in A75XL with a BOIP. Dropping the route while the TO troubleshoots. T505 now a hole all the way from L30 to M90. Will try to turn back short on the M- line into the proper slot.,6
+1823,"T441 hold ORY to W40, C1270 would not reset causing the train to turn back at W10 earlier, no operators in the yard made re-configuring the train time consuming.",6
+1825,"T449 M30-2 door open, TO trying multiple cycles to clear before sweeping.",5
+1825,"T505 re-dispatched from OHY this time no problem, same cars. The train will run OOS to the M- line and be turned back short somewhere.",11
+1829,"T449 moving ATO, the 101 operator locked out doors 1+3 on C1633. T449 was delayed 4 minutes by the 329 turn at M60 and 5 minutes by the door open, now 11 minutes late in total. All following trains further delayed down the M2 track leaving SF. T101 delayed 3 minutes.",11
+1829,"T385 no ATO doors at M20-1, 311.",5
+1829,"T515 no ATO doors at A20-1, 311.",5
+1833,T365 C80-2 late in/out 15 minutes late. Train was late due to the 331 door open at M70. No spare because C80 sent the 323 to the yard earlier instead of keeping it to protect the commute.,11
+1837,"T109 no ATO doors at S20-1, 311.",5
+1839,"T103 no ATO doors at M16-1, 311.",5
+1840,"T229 no ATO doors at S20-2, 311.",5
+1842,"T367 C80-2 8 minutes late in/out, delayed on the M-line. No spare because C80 sent the 321 to the yard instead of using it for the 367.",11
+1843,"T103 no ATO doors at M20-1, 311.",5
+1844,"T377 no ATO doors at M16-2, 311.",5
+1846,"T103 no ATO doors at M30-1, 311.",5
+1847,"T103 M30-1 multiple rule 311's, quick AUX cycle to clear the SET in the trailing car, good ATO doors now.",7
+1901,"T363 no ATO doors at M20-1, 311.",5
+1918,T455 K10-1 BPD hold for a fight on board the train.,1
+1918,"T235 no ATO doors at S20-2, 311.",5
+1919,"T459 no ATO doors at M90-2, 311.",5
+1924,"T235 no ATO doors at S20-2, 311.",5
+1925,"T455 released ATO, 8 minute delay.",11
+1925,"T455 released ATO, 8 minute delay.",11
+1925,"T455 released ATO, 8 minute delay.",11
+1933,"T767 no ATO doors at M16-1, 311.",5
